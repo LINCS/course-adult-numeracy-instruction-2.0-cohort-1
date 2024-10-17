@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1391" moduleid="10420" modulename="forum" contextid="74251">
+  <forum id="1391">
+    <type>blog</type>
+    <name>Let’s Play!</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Now it’s time to play the game you designed in Session 6.3.&lt;/p&gt;
+
+&lt;p dir="ltr" style="text-align: left;"&gt;If the game you designed includes rolling dice or spinners, the handouts &lt;span&gt;&lt;a href="@@PLUGINFILE@@/Sample%20Spaces%20-%20Dice.pdf?time=1688771807995" target="_blank" title="PDF - opens in a new window"&gt;Sample Spaces: Dice&lt;/a&gt;&lt;/span&gt;    and
+    &lt;span&gt;&lt;a href="@@PLUGINFILE@@/Sample%20Spinners.pdf?time=1688771819379" target="_blank" title="PDF - opens in a new window"&gt;Sample Spinners&lt;/a&gt;&lt;/span&gt; may be helpful. To turn a template from the Sample Spinners handout
+    into an actual spinner, print it out, select the spinner template you want to use, and insert a bent paperclip for the spinner.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;You may also use virtual spinners or dice, such as the following:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;a href="https://www.google.com/search?si=ACC90nzWefxOTni-gMgK5y9bzh5RCd-4lOGEhnBNI48B_EdJDeZOZpjgND2GXT6gSNbDhXLQ9KUVBXzSpzDL7RhKQFjemwA9ntWZx13ZngqHefHAHwCihxRDq86AZ4TsCNfCR13qZ93pVPGzj6Z1pzl0bSHK8wLN0clY6H2F1vYM1mp63Hf2RxB37jeLNniPfQ7qFeFeBUuaeizCM2fze4c_2z30PTdZMijQxxDOJZSKbhnj2yzFcQ1ZNr2ftFCWmh0Tyh4hZFDHMsoKCWJYtLtw8o-CE2ifLg%3D%3D&amp;amp;hl=en-US&amp;amp;kgs=0b7115c03489a1b5&amp;amp;shndl=21&amp;amp;shem=ssim&amp;amp;source=sh/x/fbx/m1/1" target="_blank" title="https://www.google.com/search?si=ACC90nzWefxOTni-gMgK5y9bzh5RCd-4lOGEhnBNI48B_EdJDeZOZpjgND2GXT6gSNbDhXLQ9KUVBXzSpzDL7RhKQFjemwA9ntWZx13ZngqHefHAHwCihxRDq86AZ4TsCNfCR13qZ93pVPGzj6Z1pzl0bSHK8wLN0clY6H2F1vYM1mp63Hf2RxB37jeLNniPfQ7qFeFeBUuaeizCM2fze4c_2z30PTdZMijQxxDOJZSKbhnj2yzFcQ1ZNr2ftFCWmh0Tyh4hZFDHMsoKCWJYtLtw8o-CE2ifLg%3D%3D&amp;amp;hl=en-US&amp;amp;kgs=0b7115c03489a1b5&amp;amp;shndl=21&amp;amp;shem=ssim&amp;amp;source=sh/x/fbx/m1/1"&gt;Google spinner&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://www.google.com/search?si=ACC90ny8rYC02BlYgkua-naz_Mf6oz5IeFSsodPe52y-b7_gAzq0-ZMJmFoNYm1qKdowwjivdRKC41_Su84fEjEyeBHUvXnqYVBQ8fcI6DZIGrujnGj9f5dGbmQ-4OKnJhvUNrqm-LZ1JEpU_K9tJlOjRAT5VsPSFI_wx61HMrZgAC_8WhWCivuOku-FE-GLekx3dv8EviCP8BS5wY9wm4J6Nx0rDdT8AIUPFm4vti6BqxCy_DM8tEEXOYvHCLI4BggPFAfZ-zaH3H41RzcjHLi9UROBHIV5d6GjGIeYK9_LdAKT1VC-Z_L5LX97wucvMcR4jxMqrKMprhu4aTa90wZF6XkAJ5a029KLIP1p2KXMRR_Bi_qL1WqntrrAp4jegTVg9wY0e8FSNsQtMSo9I9j78bAtrUmPK5tZvN-PdIsORiJn4BsVHfBDNn-a5tyCxQDdl9gZqBhz56c3TnqY-pjcHac3muMudoIvG40Ra6OM_qmStzHPBWhws6xdJCDBkY819q7Qpm-hOJ-CSn6exmTQpvJj4DKbdQMM42cTcjv-_Cgm19mpnR1jgkU_r_LvpcpeD1VD7wmm&amp;amp;hl=en-US&amp;amp;kgs=cc283550196068e3&amp;amp;shndl=21&amp;amp;shem=ssim&amp;amp;source=sh/x/fbx/m1/1" target="_blank" title="https://www.google.com/search?si=ACC90ny8rYC02BlYgkua-naz_Mf6oz5IeFSsodPe52y-b7_gAzq0-ZMJmFoNYm1qKdowwjivdRKC41_Su84fEjEyeBHUvXnqYVBQ8fcI6DZIGrujnGj9f5dGbmQ-4OKnJhvUNrqm-LZ1JEpU_K9tJlOjRAT5VsPSFI_wx61HMrZgAC_8WhWCivuOku-FE-GLekx3dv8EviCP8BS5wY9wm4J6Nx0rDdT8AIUPFm4vti6BqxCy_DM8tEEXOYvHCLI4BggPFAfZ-zaH3H41RzcjHLi9UROBHIV5d6GjGIeYK9_LdAKT1VC-Z_L5LX97wucvMcR4jxMqrKMprhu4aTa90wZF6XkAJ5a029KLIP1p2KXMRR_Bi_qL1WqntrrAp4jegTVg9wY0e8FSNsQtMSo9I9j78bAtrUmPK5tZvN-PdIsORiJn4BsVHfBDNn-a5tyCxQDdl9gZqBhz56c3TnqY-pjcHac3muMudoIvG40Ra6OM_qmStzHPBWhws6xdJCDBkY819q7Qpm-hOJ-CSn6exmTQpvJj4DKbdQMM42cTcjv-_Cgm19mpnR1jgkU_r_LvpcpeD1VD7wmm&amp;amp;hl=en-US&amp;amp;kgs=cc283550196068e3&amp;amp;shndl=21&amp;amp;shem=ssim&amp;amp;source=sh/x/fbx/m1/1"&gt;Google dice&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;If the links above do not work for you, simply use Google to search "Google Spinner" and "Google Dice" to access them.&amp;nbsp;&lt;br&gt;&lt;ul&gt;
+&lt;/ul&gt;&lt;p&gt;&lt;span style="color: rgb(17, 46, 81); font-family: Merriweather, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 1.4rem;"&gt;Discussion&lt;/span&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Try to find another participant, family member, or friend to play with. It will be more fun this way. However, if this is practically challenging, you can play the game against yourself.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Share your findings in the discussion forum below. Click ADD DISCUSSION TOPIC to add a post to the forum. (You may attach pictures of your results or your work.)&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;&lt;span&gt;&lt;em&gt;Briefly describe the rules of the game.&lt;/em&gt;&lt;/span&gt; Refer to the rules of the game you designed in Session 6.3.&lt;br&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;em&gt;Make a prediction.&lt;/em&gt; Who do you think will win the game? If the game is fair, this will be a random guess. If the game seems unfair, select the player who you think has the advantage.&lt;/li&gt;
+    &lt;li&gt;&lt;em&gt;Play the game.&lt;/em&gt; Play the game 3–5 times and record the results of each game.&lt;/li&gt;
+    &lt;li&gt;&lt;em&gt;Analyze your results.&lt;/em&gt; How did your prediction match what actually happened? Was the game fair or unfair? How do you know? Include the theoretical probability of each player’s chances of winning.&lt;/li&gt;
+&lt;/ol&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720643038</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

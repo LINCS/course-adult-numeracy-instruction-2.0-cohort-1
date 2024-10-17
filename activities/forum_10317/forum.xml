@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1356" moduleid="10317" modulename="forum" contextid="74148">
+  <forum id="1356">
+    <type>blog</type>
+    <name>Formative Assessment Application Project</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;In Session 2.5, we discussed several ways for engaging learners in the assessment process. In this activity, you will select one of these strategies and implement it with your students.&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;Select one of these routines, or a different routine serving the same purpose, and implement it with your students:
+        &lt;ul style="padding-top: 10px"&gt;
+            &lt;li&gt;Journaling&lt;/li&gt;
+            &lt;li&gt;Check-In Chats/Coffee Talks&lt;/li&gt;
+            &lt;li&gt;Rubrics and Peer Feedback&lt;/li&gt;
+            &lt;li&gt;Alternative Feedback Strategies&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;In the discussion forum below, share your experience using one of the formative assessment routines. Click ADD DISCUSSION TOPIC to add a post to the forum.
+        &lt;ul style="padding-top: 10px"&gt;
+            &lt;li&gt;Describe the routine.&lt;/li&gt;
+            &lt;li&gt;Explain why you selected it.&lt;/li&gt;
+            &lt;li&gt;Describe how you modified the technique to meet the needs of your learners.&lt;/li&gt;
+            &lt;li&gt;Discuss how the learners responded.&lt;/li&gt;
+            &lt;li&gt;Say whether you will, or will not, use the technique again and why.&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720642415</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

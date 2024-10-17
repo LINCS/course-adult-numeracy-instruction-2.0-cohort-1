@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2675" moduleid="10285" modulename="page" contextid="74116">
+  <page id="2675">
+    <name>Understanding Cognitive Demand</name>
+    <intro>&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;Researchers use the term &lt;b&gt;cognitive demand&lt;/b&gt; to describe the level of difficulty, relative to what they know, of the work that students are asked to engage in. The goal is to find a middle ground where students have opportunities to build on what
+    they know and stretch their current understandings.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;In mathematics education, cognitive demand refers to the extent to which students have opportunities to &lt;b&gt;productively struggle&lt;/b&gt; with and make sense of important mathematical ideas as well as how to use and apply them.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;But what is productive struggle? &lt;b&gt;Productive struggle&lt;/b&gt; is a term that is used to describe what learners experience when presented with the optimal level of cognitive demand or difficulty they are prepared for. When students are productively struggling,
+    they build upon and stretch what they know. The kinds of tasks teachers use with students and how they implement those tasks determine whether and to what degree students productively struggle in mathematics.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Math education researchers have argued for decades that students need regular opportunities to grapple with and make sense of important disciplinary ideas—in other words, they should have opportunities to productively struggle. Unfortunately, and confirmed
+    through large scale studies of U.S. mathematics classrooms (e.g., the &lt;a href="https://nces.ed.gov/timss/" target="_blank" title="TIMSS website - opens in a new window"&gt;Third International Mathematics and Science Study Video Study&lt;/a&gt;), the predominant mode of instruction involves the teacher
+    as the primary sense maker. Often well-intentioned, teachers are more inclined to provide step-by-step instructions for students or, if students are in the midst of grappling with a challenging problem, show them the solution or steps to the solution
+    instead of letting students arrive at the solution more independently.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Knowing how much support or scaffolding to provide to students as they solve problems and develop understanding is challenging, interesting work. Some argue it is what makes teaching both an art and a science.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;In Session 1.5, we will be looking at the cognitive demand and its relation to productive struggle in mathematics instruction.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1715719067</timemodified>
+  </page>
+</activity>

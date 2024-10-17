@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1355" moduleid="10316" modulename="forum" contextid="74147">
+  <forum id="1355">
+    <type>blog</type>
+    <name>Reflecting on Session 2.5</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;In Session 2.5, we discussed the importance of providing effective feedback to learners.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Understanding learning progressions can help teachers provide specific feedback about skills that are building blocks to current learning. In this activity, you will explore two resources that are helpful for identifying the skills that students might
+    revisit in order to understand a new skill. You will then reflect on how these resources could be used to differentiate instruction for learners.&lt;/p&gt;
+&lt;h3 style="padding-top: 20px"&gt;Standards-in-Action: Critical Mathematical Concepts That Progress Across the Levels&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;The document &lt;a href="@@PLUGINFILE@@/Standards-In-Action%20Critical%20Mathematical%20Concepts.pdf?time=1688711954285" target="_blank" title="PDF - opens in a new window"&gt;Standards-in-Action: Critical Mathematical Concepts That Progress Across the Levels&lt;/a&gt;    provides a high-level understanding of how learning progresses through each level of the standards. The document helps highlight how learning grows in complexity from one level to the next and how the lower levels are the foundational learnings necessary
+    for the later levels. If students struggle with a specific level of content, instructors can revisit previous levels to identify if there are areas of misconceptions that need to be addressed.&lt;/p&gt;
+&lt;h3 style="padding-top: 20px"&gt;The Coherence Map&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;The &lt;a href="https://achievethecore.org/coherence-map/" target="_blank" title="Coherence Map website - opens in a new window"&gt;Coherence Map&lt;/a&gt; from &lt;a href="https://achievethecore.org/" target="_blank" title="Achieve the Core website - opens in a new window"&gt;Achieve the Core&lt;/a&gt;    is another helpful tool for understanding learning progressions. The Coherence Map is an online interactive organization of the mathematics standards that includes high-quality tasks related to specific standards. It provides information about prerequisite
+    skills and links to additional information related to learning specific standards. It also includes instructional and assessment resources to use with learners. These tasks can be used to differentiate instruction, as whole or small group work, or
+    as a mini-assessment. Each task includes answer keys and helpful explanations for instructors and/or learners. In addition to listing prerequisite skills within a domain, the Coherence Map connects standards to related standards from across all domains.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;We have provided a link below that takes you directly to the task &lt;em&gt;Fixing the Furnace&lt;/em&gt;, which we discussed in Session&amp;nbsp;2.3. In the Coherence Map, you can explore what standards the task relates to, the prerequisite skills, and what skills are
+    the next stepping stones in mastery of the content.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Using the link below, take 20 minutes to explore the Coherence Map:&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;a href="https://achievethecore.org/coherence-map/8/35/411/411" target="_blank" title="Coherence Map website - opens in a new window"&gt;Coherence Map: Fixing the Furnace&lt;/a&gt;&lt;/p&gt;
+&lt;h3 style="padding-top: 20px"&gt;Discussion&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Resources like Standards-in-Action: Critical Mathematical Concepts That Progress Across the Levels and the Coherence Map can help with recognizing where a learner is going in their learning and where they are currently.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Share your thoughts on these two resources in the discussion forum below. Click ADD DISCUSSION TOPIC and respond to the following prompts:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;How can these resources be used to provide students with effective feedback?&lt;/li&gt;
+    &lt;li&gt;How can they be used to differentiate instruction to meet the needs of learners?&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720642402</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

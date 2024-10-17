@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1115" moduleid="10269" modulename="assign" contextid="74100">
+  <assign id="1115">
+    <name>Session 1.1 Information</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Session 1.1 will meet on Oct. 11, 2024 at 2 PM ET/11 AM PT.&lt;/p&gt;&lt;p dir="ltr"&gt;Session 1.1 log in information: &lt;a href="https://air-org.zoom.us/j/96080108867?pwd=mOU19gZhDZVIWCO3TUkmWucS5eVGiS.1"&gt;https://air-org.zoom.us/j/96080108867?pwd=mOU19gZhDZVIWCO3TUkmWucS5eVGiS.1&lt;/a&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Prior to the session, download the Handouts folder. Make sure that you have the following handouts available for the session. (If possible, print out the handouts indicated below.)&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/Seats%20at%20the%20Table.pdf" target="_blank" title="https://lincs.ed.gov/sites/default/files/2024-05/Seats%20at%20the%20Table.pdf"&gt;Seats at the Table&lt;/a&gt;&amp;nbsp;&lt;em&gt;(print, if possible)&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/Seats%20at%20the%20Table%20Student%20Work%20Examples.pdf" target="_blank" title="https://lincs.ed.gov/sites/default/files/2024-05/Seats%20at%20the%20Table%20Student%20Work%20Examples.pdf"&gt;Seats at the Table Student Work Examples&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/Looking%20at%20Student%20Work.pdf" target="_blank" title="https://lincs.ed.gov/sites/default/files/2024-05/Looking%20at%20Student%20Work.pdf"&gt;Looking at Student Work&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Session 1.1 Agenda&lt;/h3&gt;&lt;p dir="ltr"&gt;Session 1.1 provides an introduction to the ANI 2.0 program (including the organization, expectations, and learning objectives) and your instructors. During the session, you will have a chance to get to know your fellow participants, and you will be introduced to some of the common routines and activities you will use throughout the program.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Introductions&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Who Are We?&lt;/li&gt;&lt;li&gt;Getting To Know You Activity&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Our Work Together&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Review of ANI 2.0 PD Goals, Organization, and Expectations&lt;/li&gt;&lt;li&gt;Key Routines and Norms&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Accessing the Asynchronous Session Material&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Accessing the Session Material in the Online Course&lt;/li&gt;&lt;li&gt;Preview of Session 1.2&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style="text-align: center; "&gt;&lt;strong&gt;Please note that your training facilitator will manually mark this activity complete if you attend the session.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>1</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1728576009</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>1</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <hidegrader>0</hidegrader>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <activity></activity>
+    <activityformat>1</activityformat>
+    <timelimit>0</timelimit>
+    <submissionattachments>0</submissionattachments>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="8730">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8731">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8732">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>20</value>
+      </plugin_config>
+      <plugin_config id="8733">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8734">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>filetypeslist</name>
+        <value></value>
+      </plugin_config>
+      <plugin_config id="8735">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8736">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8737">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8738">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8739">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8740">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimit</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8741">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimitenabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8742">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>commentinline</name>
+        <value>1</value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

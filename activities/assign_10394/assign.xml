@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1139" moduleid="10394" modulename="assign" contextid="74225">
+  <assign id="1139">
+    <name>Connect a Set of Tasks to a Sample Formula Sheet</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;In this activity, you will choose from a set of tasks that might be typical for students to be asked to solve, often with the support of a “Formula Sheet.” For the formula sheet to be useful to students who do not know an approach or formula on their
+    own, students need to be able to locate and use relevant formulas.
+&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;Use Task #2 and one other task of your choosing from
+        &lt;span&gt;&lt;a href="@@PLUGINFILE@@/Middle%20School%20Mathematics%20-%20Short%20Tasks%20-%20Geometry.pdf?time=1688770357322" target="_blank" title="PDF - opens in a new window"&gt;Middle School Mathematics – Short Tasks: Geometry&lt;/a&gt;&lt;/span&gt;.&lt;br&gt;&lt;strong&gt;For each task:&lt;/strong&gt;&lt;br&gt;
+        &lt;ul style="padding-top: 10px"&gt;
+            &lt;li&gt;Complete the task using a few different approaches, ideally in ways you anticipate adult learners might respond correctly or incorrectly. Include images of your work when you submit the assignment.&lt;/li&gt;
+            &lt;li&gt;Respond to the following:
+                &lt;ul style="padding-top: 10px"&gt;
+                    &lt;li&gt;How might learners use diagrams?&lt;/li&gt;
+                    &lt;li&gt;Are there definitions that need to be utilized?&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;List the formulas learners might find helpful for the task.&lt;/li&gt;
+            &lt;li&gt;Respond to the following:
+                &lt;ul style="padding-top: 10px"&gt;
+                    &lt;li&gt;What do they need to know and understand about the formulas and the figures or constraints described in the task?&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;For &lt;strong&gt;one&lt;/strong&gt; of the two tasks you did above, respond to the following:&lt;br&gt;&lt;/li&gt;
+    &lt;ul&gt;
+        &lt;li&gt;How might drawing a diagram (or drawing on the given diagram) be helpful in using a formula sheet, such as the&amp;nbsp;&lt;span&gt;&lt;a href="@@PLUGINFILE@@/Sample%20Formula%20Sheet.pdf?time=1688770394199" target="_blank" title="PDF - opens in a new window"&gt;Sample Formula Sheet&lt;/a&gt;&lt;/span&gt;?&lt;/li&gt;
+        &lt;li&gt;What might adult learners struggle to connect between the task and the formula sheet?&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Instructions for submitting the assignment:&lt;/strong&gt; Click the ADD SUBMISSION button below. You may then upload a document and pictures of your work. Click SAVE CHANGES to save your work. Click SUBMIT ASSIGNMENT when you are done.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>1</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1716501443</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>1</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <hidegrader>0</hidegrader>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <activity></activity>
+    <activityformat>1</activityformat>
+    <timelimit>0</timelimit>
+    <submissionattachments>0</submissionattachments>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="9040">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9041">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimit</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9042">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimitenabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9043">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9044">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9045">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9046">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>commentinline</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9047">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9048">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9049">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9050">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>20</value>
+      </plugin_config>
+      <plugin_config id="9051">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9052">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>filetypeslist</name>
+        <value></value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

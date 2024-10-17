@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1382" moduleid="10393" modulename="forum" contextid="74224">
+  <forum id="1382">
+    <type>blog</type>
+    <name>Read About and Reflect on Diagrams and Definitions</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;In Session 5.3, you experienced an activity about diagrams and definitions, and in Sessions&amp;nbsp;5.1 and&amp;nbsp;5.2, you worked with decomposing and rearranging figures. In this activity, you will read about some difficulties students might have with diagrams,
+    including symbols that tell us about features of a figure or relationships between figures.&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;Read &lt;span&gt;&lt;a href="@@PLUGINFILE@@/Definitions%20Diagrams%20and%20Levels.pdf" target="_blank" title="PDF - opens in a new window"&gt;Definitions, Diagrams, and Levels of Geometric Thinking and Reasoning&lt;/a&gt;&lt;/span&gt;, focusing
+        on the description of van Hiele levels of geometric thinking and reasoning.&lt;/li&gt;
+
+    &lt;li&gt;Click ADD DISCUSSION TOPIC and respond to the following prompts in the discussion forum below.
+        &lt;ul style="padding-top: 10px"&gt;
+            &lt;li&gt;How do the levels in the reading compare to your experience with adult learners? If you haven’t noticed challenges or successes that match the levels, comment on what you might notice now, after having read about the levels.&lt;/li&gt;
+            &lt;li&gt;How do you see working with diagrams as supporting learners’ understanding and use of definitions?&lt;/li&gt;
+            &lt;li&gt;What relationships do you see between the van Hiele levels and MP&amp;nbsp;6 (Attend to precision)?&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720642870</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

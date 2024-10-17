@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="368" moduleid="10294" modulename="lesson" contextid="74125">
+  <lesson id="368">
+    <course>306</course>
+    <name>Growth Mindset Activity</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>-4</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1716487723</timemodified>
+    <completionendreached>1</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="1908">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1909</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1604438205</timecreated>
+        <timemodified>1726271550</timemodified>
+        <title>What is Growth Mindset?</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;Watch this video from Fullerton College in California about growth mindset and learning. The video emphasizes that growth mindset is about focusing on effort, using good strategies, and getting help.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center; "&gt;&lt;a href="https://www.youtube.com/watch?v=d0jEF66xSBA"&gt;Pathway Transformation Initiative - Growth Mindset&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center; "&gt;Fullerton College Mindful Growth Initiative&lt;br&gt;Miguel Powers, Substance Media&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;You must reach the end of the lesson to receive confirmation of completion&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Click NEXT to continue.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4004">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604438205</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1909">
+        <prevpageid>1908</prevpageid>
+        <nextpageid>1910</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1604438274</timecreated>
+        <timemodified>1677200979</timemodified>
+        <title>Introduction to the Growth Mindset Activity</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;Fostering growth mindset has been a significant topic of research and practice in recent years. In this activity, you will engage in an intervention that has been shown to shift the mindsets of developmental mathematics students in community colleges,
+    leading to improved persistence and performance (Yeager et al., 2019).&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;The intervention involves first reading an article about learning and the brain and growth mindset, specifically designed for this student population, then reflecting and writing about connections to participants’ experiences and about advising future
+    students about growth mindset.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;While this particular activity was designed for students in developmental level mathematics in community colleges, similar interventions using readings or videos can be found for many different student populations.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Click NEXT to continue.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4005">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604438274</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4008">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604438274</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1910">
+        <prevpageid>1909</prevpageid>
+        <nextpageid>1911</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1604438711</timecreated>
+        <timemodified>1688759831</timemodified>
+        <title>Growth Mindset Activity: You Can Grow Your Brain</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;Complete the following.&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;Read the handout &lt;span&gt;&lt;a href="@@PLUGINFILE@@/You%20Can%20Grow%20Your%20Brain.pdf?time=1688698336270" target="_blank" title="PDF - opens in a new window"&gt;You Can Grow Your Brain&lt;/a&gt;&lt;/span&gt;.&lt;/li&gt;
+    &lt;li&gt;Answer the questions in the handout &lt;span&gt;&lt;a href="@@PLUGINFILE@@/Questions%20-%20You%20Can%20Grow%20Your%20Brain.pdf?time=1688698347360" target="_blank" title="PDF - opens in a new window"&gt;Questions: You Can Grow Your Brain&lt;/a&gt;&lt;/span&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Note that you do not need to submit your responses. When implementing this activity with students, students do submit their responses but they are not evaluated. The key to the activity is that students rethink and rewrite the concepts and language from
+    the article in their own words.&lt;/p&gt;
+&lt;h4 style="padding-top: 20px"&gt;For More Information&lt;/h4&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Yeager, D. S., Hanselman, P., Walton, G. M., &lt;em&gt;et al.&lt;/em&gt; (2019). A national experiment reveals where a growth mindset improves achievement. &lt;em&gt;Nature, 573&lt;/em&gt;(7774), 364–369.&amp;nbsp;
+    &lt;a href="https://doi.org/10.1038/s41586-019-1466-y" target="_blank" title="Nature website - opens in a new window"&gt;https://doi.org/10.1038/s41586-019-1466-y&lt;/a&gt;
+&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;University of Texas at Austin. (2019, August 7). A growth mindset intervention can change students’ grades if school culture is supportive. &lt;em&gt;ScienceDaily&lt;/em&gt;.&amp;nbsp;&lt;a href="http://www.sciencedaily.com/releases/2019/08/190807131918.htm" target="_blank" title="Science Daily website - opens in a new window"&gt;http://www.sciencedaily.com/releases/2019/08/190807131918.htm&lt;/a&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Dweck, C. S. &amp;amp; Yeager, D. S. (2019). Mindsets: A view from two eras. &lt;em&gt;Perspectives on
+Psychological Science, 14&lt;/em&gt;(3), 481–496. Retrieved from &lt;a href="https://canvas.harvard.edu/courses/41212/files/7659956/" target="_blank" title="Harvard Canvas course website - opens in a new window"&gt;https://canvas.harvard.edu/courses/41212/files/7659956/&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Click NEXT to continue.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4006">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604438711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4009">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604438711</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1911">
+        <prevpageid>1910</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>10</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1604438892</timecreated>
+        <timemodified>1679624425</timemodified>
+        <title>Debrief</title>
+        <contents>&lt;h3&gt;Debrief&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;To wrap up the Growth Mindset Activity, respond to the following in the text box below:&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;What surprised you from the article?&lt;/li&gt;
+    &lt;li&gt;How do you think your students will respond to such an activity?&lt;/li&gt;
+    &lt;li&gt;What questions do you have?&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4007">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1604438892</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

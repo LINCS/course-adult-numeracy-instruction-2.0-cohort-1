@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1117" moduleid="10277" modulename="assign" contextid="74108">
+  <assign id="1117">
+    <name>Session 1.3 Information</name>
+    <intro>&lt;p dir="ltr"&gt;Session 1.3 will meet on Oct. 18, 2024 at 2 PM ET/11 AM PT.&lt;/p&gt;&lt;p dir="ltr"&gt;Session 1.3 log in information: &lt;a href="https://air-org.zoom.us/j/96080108867?pwd=mOU19gZhDZVIWCO3TUkmWucS5eVGiS.1"&gt;https://air-org.zoom.us/j/96080108867?pwd=mOU19gZhDZVIWCO3TUkmWucS5eVGiS.1&lt;/a&gt;.&lt;/p&gt;&lt;p dir="ltr"&gt;Prior to the session, download the Handouts folder. Make sure that you have the following handouts available for the session.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/Standards-in-Action%20Critical%20Concepts%20and%20Fluencies%20of%20the%20Levels.pdf" target="_blank" title="Standards-in-Action: Critical Concepts and Fluencies of the Levels"&gt;Standards-in-Action: Critical Concepts and Fluencies of the Levels&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/Standards%20for%20Mathematical%20Practice.pdf" target="_blank" title="Standards for Mathematical Practice"&gt;Standards for Mathematical Practice&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Session 1.3 Agenda&lt;/h3&gt;&lt;p dir="ltr"&gt;Session 1.3 will focus on the mathematics content and practice standards. You will be exploring how Coherence and Rigor are realized in the standards. You will also be introduced to the key mathematics practices most relevant for adult learners of mathematics.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Launch&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Session 1.2 Debrief&lt;/li&gt;&lt;li&gt;Session 1.3 Learning Objectives&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Explore&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Exploring Rigor and Coherence&lt;/li&gt;&lt;li&gt;Introducing the Standards for Mathematical Practice&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Summarize&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Big Ideas From Session 1.3&lt;/li&gt;&lt;li&gt;Preview of Session 1.4&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;p style="text-align: center;"&gt;&lt;strong style="font-size: 0.9375rem;"&gt;Please note that your training facilitator will manually mark this activity complete if you attend the session.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;&lt;/strong&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>1</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1728576032</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>1</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <hidegrader>0</hidegrader>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <activity></activity>
+    <activityformat>1</activityformat>
+    <timelimit>0</timelimit>
+    <submissionattachments>0</submissionattachments>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="8756">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8757">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8758">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>20</value>
+      </plugin_config>
+      <plugin_config id="8759">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8760">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>filetypeslist</name>
+        <value></value>
+      </plugin_config>
+      <plugin_config id="8761">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8762">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8763">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8764">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8765">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8766">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimit</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8767">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimitenabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8768">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>commentinline</name>
+        <value>1</value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

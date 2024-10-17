@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1136" moduleid="10375" modulename="assign" contextid="74206">
+  <assign id="1136">
+    <name>Session 5.1 Information</name>
+    <intro>&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Session 5.1 will meet on Mar. 21, 2025 at 2 PM ET/11 AM PT.&lt;/p&gt;&lt;p dir="ltr"&gt;Session 5.1 log in information:&amp;nbsp;&lt;a href="https://air-org.zoom.us/j/96080108867?pwd=mOU19gZhDZVIWCO3TUkmWucS5eVGiS.1"&gt;https://air-org.zoom.us/j/96080108867?pwd=mOU19gZhDZVIWCO3TUkmWucS5eVGiS.1&lt;/a&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;It may be helpful to have grid paper on hand for this session. You can print a few copies of the handout&amp;nbsp;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/Graph%20Paper.pdf" target="_blank" title="https://lincs.ed.gov/sites/default/files/2024-05/Graph%20Paper.pdf"&gt;Graph Paper&lt;/a&gt;&amp;nbsp;if needed.&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;em&gt;&lt;strong&gt;Note:&lt;/strong&gt;&lt;/em&gt;&amp;nbsp;There are two digital activities that you may be asked to use during the Session 5.1 synchronous meeting (Creating Rectangles and Reasoning to Find Area). No work needs to be done on these activities ahead of the meeting; however, it may be helpful to take a few minutes to familiarize yourself with the drawing tools.&lt;/p&gt;&lt;h3&gt;Session 5.1 Agenda&lt;/h3&gt;&lt;p dir="ltr"&gt;In Session 5.1, we will establish shared definitions of area and perimeter. You will then explore different conjectures about area and perimeter, both as a whole group, and through a small group activity where you will work with your peers to create as many rectangles as possible that meet certain characteristics.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Launch&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Module 5 Introduction&lt;/li&gt;&lt;li&gt;Session 5.1 Learning Objectives&lt;br&gt;&lt;/li&gt;&lt;li&gt;Norms for Doing Math Together&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Explore&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Examine Conjectures About Area and Perimeter&lt;/li&gt;&lt;li&gt;Create Rectangles to Explore the Conjectures&lt;/li&gt;&lt;li&gt;Reason to Find Area and Connect to Formulas&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Summarize&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Big Ideas From Session 5.1&lt;/li&gt;&lt;li&gt;Preview of Session 5.2&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style="text-align: center; "&gt;&lt;strong&gt;Please note that your training facilitator will manually mark this activity complete if you attend the session.&amp;nbsp;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;strong&gt;&lt;p style="text-align: center;"&gt;&lt;strong style="font-size: 0.9375rem;"&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/strong&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>0</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>1</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1728576357</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <hidegrader>0</hidegrader>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <activity></activity>
+    <activityformat>1</activityformat>
+    <timelimit>0</timelimit>
+    <submissionattachments>0</submissionattachments>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="9001">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9002">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9003">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>20</value>
+      </plugin_config>
+      <plugin_config id="9004">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9005">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>filetypeslist</name>
+        <value></value>
+      </plugin_config>
+      <plugin_config id="9006">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9007">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9008">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9009">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9010">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9011">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimit</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9012">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimitenabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9013">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>commentinline</name>
+        <value>1</value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

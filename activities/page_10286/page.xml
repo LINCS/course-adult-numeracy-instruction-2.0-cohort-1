@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2676" moduleid="10286" modulename="page" contextid="74117">
+  <page id="2676">
+    <name>Prepare for Session 1.5</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;The next synchronous session will focus on the concepts of &lt;strong&gt;cognitive demand&lt;/strong&gt; and &lt;strong&gt;productive struggle&lt;/strong&gt;. You will be engaging in a video case to explore how cognitively demanding tasks are supported through instructional
+    practices to foster students’ productive struggle. You will also be introduced to the concepts of mathematics identity and student agency.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;To prepare for Session&amp;nbsp;1.5, complete the handout &lt;a href="@@PLUGINFILE@@/S-Pattern%20Task.pdf?time=1688697656830" target="_blank" title="PDF - opens in a new window"&gt;S-Pattern Task&lt;/a&gt;. If possible, print out the handout
+    and do the problem there. Also consider the content standard(s) and mathematical practice(s) that this task addresses. Make sure to have your work handy during Session&amp;nbsp;1.5.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"1";}</displayoptions>
+    <revision>16</revision>
+    <timemodified>1715719111</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1344" moduleid="10275" modulename="forum" contextid="74106">
+  <forum id="1344">
+    <type>blog</type>
+    <name>What Questions Do You Have About ANI 2.0?</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Now that you’ve gotten started on the ANI&amp;nbsp;2.0 program, what questions do you have about the ANI&amp;nbsp;2.0 program, the program learning objectives and purposes, and any technical issues?&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Click ADD DISCUSSION TOPIC to share your questions and concerns in the discussion forum below. And please respond to others’ questions if you feel you can. (Click “Discuss this topic” on an individual post, then click “Reply” to respond to that post.)&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Your facilitator will respond before Session&amp;nbsp;1.3.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1716922552</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

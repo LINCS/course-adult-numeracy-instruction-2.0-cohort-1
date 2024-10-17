@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="366" moduleid="10283" modulename="lesson" contextid="74114">
+  <lesson id="366">
+    <course>306</course>
+    <name>Mathematical Practice 2: Doing Math and Looking at Student Work</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>-4</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1715718992</timemodified>
+    <completionendreached>1</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="1897">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1898</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1604383768</timecreated>
+        <timemodified>1726271465</timemodified>
+        <title>Diving Into Mathematical Practice 2</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;MP&amp;nbsp;2 is about reasoning abstractly and quantitatively. This means that learners can&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;make sense of quantities and their relationships.&lt;/li&gt;
+    &lt;li&gt;decontextualize situations that use quantities by representing those quantities and their relationships using mathematical symbols.&lt;/li&gt;
+    &lt;li&gt;contextualize by connecting symbols to their meaning in the problem context.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Watch the following CCRS Mathematical Practice&amp;nbsp;2 video from the ATLAS program (Hamline University and the Minnesota Numeracy Initiative). It provides clear explanations and examples of decontextualizing and contextualizing.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center;"&gt;&lt;iframe width="400" height="225" src="https://www.youtube.com/embed/6jaQ1fEv6ts?end=630" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center; margin:0px 100px 0px 100px;"&gt;Used with permission from ATLAS, ABE Teaching &amp;amp; Learning Advancement System. ATLAS is solely funded by a grant from the Minnesota Department of Education and is housed at Hamline University in St.&amp;nbsp;Paul, Minnesota. Contact information: Dr.&amp;nbsp;Patsy
+    Egan, ATLAS Director, &lt;a href="mailto:pegan02@hamline.edu" target="_blank"&gt;pegan02@hamline.edu&lt;/a&gt;, &lt;a href="http://www.atlasABE.org" target="_blank" title="ATLAS website - opens in a new window"&gt;www.atlasABE.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;You must reach the end of the lesson to receive confirmation of completion.&amp;nbsp;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Click NEXT to continue.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3987">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604383768</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1898">
+        <prevpageid>1897</prevpageid>
+        <nextpageid>1900</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1668469697</timecreated>
+        <timemodified>1688759225</timemodified>
+        <title>Mathematical Practice 2 as a Learner</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;To investigate MP&amp;nbsp;2 further, we’ll now look at some student work on the task Best Buy Tickets from the &lt;a href="https://www.map.mathshell.org/background.php" target="_blank" title="Mathematics Assessment Project website - opens in a new window"&gt;Mathematics Assessment Project&lt;/a&gt;    of the Mathematics Assessment Resource Service (CCRS Mathematics: A.CED.1, MP.4).&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;First, do the task yourself (see the handout &lt;a href="@@PLUGINFILE@@/Best%20Buy%20Tickets.pdf?time=1688697555777" target="_blank" title="PDF - opens in a new window"&gt;Best Buy Tickets&lt;/a&gt;). You won’t have to submit your solution,
+    but it will be handy to have your work available during the rest of the activity.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Once you have completed the task, click NEXT to continue.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3990">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1668469697</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3991">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1668469697</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1900">
+        <prevpageid>1898</prevpageid>
+        <nextpageid>1899</nextpageid>
+        <qtype>10</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1604384868</timecreated>
+        <timemodified>1688759251</timemodified>
+        <title>Mathematical Practice 2 as a Teacher</title>
+        <contents>&lt;h3&gt;Mathematical Practice 2 as a Teacher&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Next, you will be looking at student work on the Best Buy Tickets task.&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;Read through all of the solutions in the handout &lt;a href="@@PLUGINFILE@@/Best%20Buy%20Tickets%20-%20Student%20Work.pdf?time=1688697581459" target="_blank" title="PDF - opens in a new window"&gt;Best Buy Tickets - Student Work&lt;/a&gt;.&lt;/li&gt;
+    &lt;li&gt;Select one to examine more closely.&lt;/li&gt;
+    &lt;li&gt;As you look at that student’s work, answer the following questions in the text box below:
+        &lt;ul style="padding-top: 10px;"&gt;
+            &lt;li&gt;What evidence can you find of the student making sense of quantities and their relationships?&lt;/li&gt;
+            &lt;li&gt;What evidence can you find of the student decontextualizing by representing the situation with symbols?&lt;/li&gt;
+            &lt;li&gt;What evidence can you find of the student contextualizing by connecting symbols to their meaning in the problem context?&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3988">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1604384868</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1899">
+        <prevpageid>1900</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>10</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1604384964</timecreated>
+        <timemodified>1679623166</timemodified>
+        <title>Mathematical Practice 2 as a Teacher, continued</title>
+        <contents>&lt;h3&gt;Mathematical Practice 2 as a Teacher, continued&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Finally, let’s reflect more broadly on the connections between content and practice. Reflect on the characteristics of mathematical tasks that would be well-suited to support MP&amp;nbsp;2. Share your thoughts in the text box below.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3989">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1604384964</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

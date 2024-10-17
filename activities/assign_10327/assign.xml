@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1123" moduleid="10327" modulename="assign" contextid="74158">
+  <assign id="1123">
+    <name>Create Your Own Number Talk</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;For this activity, you will create a number talk that you will use with your adult learners.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;When you create a number talk, select a problem in which the numbers and operations will encourage different ways of seeing—for example, a problem that can be solved in several ways—so that learners can share their thinking and approaches. You want to
+    ensure that the problem you select will produce a rich discussion from your learners. If you want to use a numerical expression for your first number talk, Humphreys and Parker (2015) suggest using a subtraction problem.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;&lt;em&gt;Note:&lt;/em&gt;&lt;/strong&gt; You may choose to do a dot talk, a type of number talk where, instead of numbers, you use an image with dots. (You will experience dot talks in Module 4.) Here are some resources about dot talks:&lt;br&gt;&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Atlas ABE Math Teacher Workout &lt;a href="https://atlasabe.org/resource/lets-talk-about-dots/" target="_blank" title="ATLAS website - opens in a new window"&gt;Let’s Talk About Dots!&lt;/a&gt;—particularly note the link to a video of Jo Boaler from Stanford
+        University facilitating a dot talk with middle school students.&lt;/li&gt;
+    &lt;li&gt;&lt;a href="https://numbertalkscom.wordpress.com/number-talks-models/" target="_blank" title="Number Talks website - opens in a new window"&gt;Number Talks website&lt;/a&gt; from the Math Perspectives Teacher Development Center. You may download the Arrangement
+        Cards PDF files to use for a dot talk.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="padding-top: 20px;"&gt;Assignment:&lt;/h3&gt;
+&lt;ol&gt;
+    &lt;li&gt;Select a number talk problem (e.g., an expression like 53&amp;nbsp;−&amp;nbsp;18 or 11&amp;nbsp;×&amp;nbsp;39) that will lend itself to a rich discussion of learner thinking and sharing different approaches.&lt;/li&gt;
+    &lt;li&gt;Anticipate as many solutions as you can to your selected number talk problem.
+        &lt;ul style="padding-top: 10px"&gt;
+            &lt;li&gt;Record your anticipated solutions for the number talk problem.&lt;/li&gt;
+            &lt;li&gt;Practice how you will annotate these solutions if a learner shares one of your anticipated solutions.&lt;/li&gt;
+            &lt;li&gt;Write down the questions you want to pose for learners to help them share and unpack their thinking. (It might be helpful to write some of
+                these questions down alongside your anticipated solutions.)&lt;br&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Compile the following in a document:
+        &lt;ul style="padding-top: 10px"&gt;
+            &lt;li&gt;The problem you selected and why you think this is a good number talk problem for your learners&lt;/li&gt;
+            &lt;li&gt;Two or three of your anticipated solutions&lt;/li&gt;
+            &lt;li&gt;The preparation steps for your number talk (e.g., put pencils and paper away, fists on chest, thumb and fingers indicating solutions, etc.)&lt;/li&gt;
+            &lt;li&gt;Four questions you plan to use during the number talk (e.g., questions to start the whole group discussion, to unpack a learner’s thinking, or to have a learner explain someone else’s thinking)&lt;br&gt;&lt;/li&gt;
+            &lt;li&gt;The Standards for Mathematical Practice you anticipate learners will engage in during the number talk&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Click the ADD SUBMISSION button below to upload the document you created in Step 3 about your number talk. Remember to click SAVE CHANGES, then click SUBMIT ASSIGNMENT when you are done.&lt;/li&gt;
+    &lt;li&gt;Implement this number talk activity with your learners and capture notes and thoughts on the experience. You will have the opportunity to share your experience implementing a number talk during Session&amp;nbsp;3.3.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;&lt;em&gt;Optional:&lt;/em&gt;&lt;/strong&gt; Repeat the steps above for a second number talk activity.&lt;/li&gt;
+&lt;/ol&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>1</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1716498485</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>1</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <hidegrader>0</hidegrader>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <activity></activity>
+    <activityformat>1</activityformat>
+    <timelimit>0</timelimit>
+    <submissionattachments>0</submissionattachments>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="8834">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8835">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8836">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>20</value>
+      </plugin_config>
+      <plugin_config id="8837">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8838">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>filetypeslist</name>
+        <value></value>
+      </plugin_config>
+      <plugin_config id="8839">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8840">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8841">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>commentinline</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8842">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8843">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8844">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

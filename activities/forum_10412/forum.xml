@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1388" moduleid="10412" modulename="forum" contextid="74243">
+  <forum id="1388">
+    <type>blog</type>
+    <name>Resources to Support Adult Numeracy Instruction in Statistics and Data</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;When you are preparing lessons that focus on data and statistics, there are lot of great free websites that can support your instruction. Below are two websites that are full of interesting data and updated regularly.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left; margin-left: 30px;"&gt;&lt;a href="https://www.census.gov/en.html" target="_blank" style="font-weight: bold;" title="U.S. Census Bureau website - opens in a new window"&gt;The U.S. Census Bureau&lt;/a&gt;&lt;br&gt;The Bureau’s website provides extensive data about U.S. citizens and the economy
+    and includes a number of different subtopics for exploration. You can view graphs and charts, related reports, and download datasets to create customized assignments. The search tool is also powerful if you don’t immediately see what you’re interested
+    in from the list of topics.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left; margin-left: 30px;"&gt;&lt;a href="https://www.pewresearch.org/topics/" target="_blank" style="font-weight: bold;" title="Pew Research Center website - opens in a new window"&gt;Pew Research Center&lt;/a&gt;&lt;br&gt;Pew is a non-partisan public opinion polling organization. Their website includes
+    datasets, reports, and interactive graphs covering dozens of topics relevant to society.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Spend a few minutes reviewing topics of interest on both websites. &lt;strong&gt;Find an article, dataset, or graph that your adult learners would find interesting, and share the resource in the discussion forum below.&lt;/strong&gt; Click ADD DISCUSSION TOPIC to add a post to the forum,
+    and be sure to include a hyperlink to the resource you selected.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;em&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;I found a graph from the U.S. Census that showed the ten metro areas with the longest and shortest one-way commuting time: &lt;a href="https://www.census.gov/library/visualizations/interactive/travel-time.html" target="_blank" title="U.S. Census Bureau website - opens in a new window"&gt;Average One-Way Commuting Time by Metropolitan Areas&lt;/a&gt;.
+        A lot of my adult learners have long commutes, so they might find this interesting. I’m going to use this graph as a warmup activity to reinforce data analysis and their understanding of mean/average.&lt;/li&gt;
+    &lt;li&gt;Pew had an interesting article about the number of Baby Boomers who are retiring each year: &lt;a href="https://www.pewresearch.org/fact-tank/2020/11/09/the-pace-of-boomer-retirements-has-accelerated-in-the-past-year/" target="_blank" title="Pew Research Center website - opens in a new window"&gt;The pace of Boomer retirements has accelerated in the past year&lt;/a&gt;. The article
+        is really short, and the graphs are great. I’m going to use it as an in-class assignment to support data analysis and change in percentages.&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720642998</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

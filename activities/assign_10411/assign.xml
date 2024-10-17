@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1143" moduleid="10411" modulename="assign" contextid="74242">
+  <assign id="1143">
+    <name>Further Investigations Into Mr. Garcia’s Data</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;In this activity, you will delve into all 3&amp;nbsp;years of Mr. Garcia’s data from his adult numeracy classes. The data are housed in the spreadsheet &lt;span&gt;&lt;a href="@@PLUGINFILE@@/Mr%20Garcias%20Historical%20Class%20Data%202020-2022.xlsx?time=1688771330797" target="_blank" title="Excel spreadsheet - downloads automatically"&gt;Mr. Garcia’s Historical Class Data 2020–2022&lt;/a&gt;&lt;/span&gt;.
+    (&lt;em&gt;Note:&lt;/em&gt; This is an Excel file, but you may upload the file to Google Drive and open it using Google Sheets. If you are not comfortable with spreadsheets, you can also create a table with the data by hand or in a Word, Google, or other type
+    of document.)&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Try to approach these problems from the vantage point of your adult learners. Think about what modifications (if any) you would need to make the activities accessible. This activity also leverages the power of spreadsheets in displaying and interpreting
+    quantitative data for students who are comfortable or interested in learning to use this tool. Creating formulas in spreadsheets also reinforces algebraic thinking emphasized in previous modules, most notably in Module&amp;nbsp;4.&lt;/p&gt;
+&lt;h3 style="padding-top: 20px"&gt;Spreadsheet tips&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Use the “=” to create formulas for measures of center as well as other calculations, such as the sum and difference.&lt;/li&gt;
+    &lt;li&gt;Create scatter plots and charts by selecting &lt;strong&gt;Insert → Chart → [type of chart]&lt;/strong&gt; from the menu. If using Google Sheets, you can customize the chart (e.g., horizontal and vertical axis, labels, etc.) by double-clicking the chart and selecting
+        &lt;strong&gt;Chart Editor → Customize&lt;/strong&gt;.&lt;/li&gt;
+    &lt;li&gt;To add a trendline in Excel, go to the &lt;strong&gt;Chart Design&lt;/strong&gt; tab, then use the menus for &lt;strong&gt;Add Chart Element → Trendline&lt;/strong&gt;. In Google Sheets, go to &lt;strong&gt;Chart Editor → &lt;/strong&gt;&lt;strong&gt;Customize → Series&lt;/strong&gt;, and check
+        the box for &lt;strong&gt;Trendline&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 style="padding-top: 20px;"&gt;Assignment&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Complete the tasks on the handout &lt;span&gt;&lt;a href="@@PLUGINFILE@@/Further%20Investigations%20Into%20Mr%20Garcias%20Data.pdf?time=1688771368297" target="_blank" title="PDF - opens in a new window"&gt;Further Investigations Into Mr. Garcia’s Data&lt;/a&gt;&lt;/span&gt;.
+    You may enter your responses directly into this handout, or you may use Word, Google, or another document.
+&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;When you are finished, click the ADD SUBMISSION button below and upload your work on this assignment. You may upload your spreadsheet or images of your charts in addition to your responses to the questions. If you did the work by hand, upload a photo
+    or PDF of your work. If you used a Google Sheet or Google Doc, provide a link to your file. Click SAVE CHANGES to save your files. &lt;strong&gt;Click SUBMIT ASSIGNMENT when you are done.&lt;/strong&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>1</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1716501731</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>1</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <hidegrader>0</hidegrader>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <activity></activity>
+    <activityformat>1</activityformat>
+    <timelimit>0</timelimit>
+    <submissionattachments>0</submissionattachments>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="9092">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9093">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimit</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9094">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimitenabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9095">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9096">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9097">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9098">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>commentinline</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9099">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9100">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9101">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9102">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>20</value>
+      </plugin_config>
+      <plugin_config id="9103">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9104">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>filetypeslist</name>
+        <value></value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

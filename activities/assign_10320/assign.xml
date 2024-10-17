@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1122" moduleid="10320" modulename="assign" contextid="74151">
+  <assign id="1122">
+    <name>Session 3.1 Information</name>
+    <intro>&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Session 3.1 will meet on Dec. 20, 2024 at 2 PM ET/11 AM PT.&lt;/p&gt;&lt;p dir="ltr"&gt;Session 3.1 log in information:&amp;nbsp;&lt;a href="https://air-org.zoom.us/j/96080108867?pwd=mOU19gZhDZVIWCO3TUkmWucS5eVGiS.1"&gt;https://air-org.zoom.us/j/96080108867?pwd=mOU19gZhDZVIWCO3TUkmWucS5eVGiS.1&lt;/a&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Prior to the session, download the Handouts folder. Make sure that you have the following handouts available for the session.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/Learner%20Number%20Talk%20Responses%20to%2039x11.pdf" target="_blank" title="https://lincs.ed.gov/sites/default/files/2024-05/Learner%20Number%20Talk%20Responses%20to%2039x11.pdf"&gt;Learner Number Talk Responses to 11 × 39&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/Looking%20at%20Student%20Work.pdf" target="_blank" title="https://lincs.ed.gov/sites/default/files/2024-05/Looking%20at%20Student%20Work.pdf"&gt;Looking at Student Work&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Session 3.1 Agenda&lt;/h3&gt;&lt;p dir="ltr"&gt;In Session 3.1, you will learn about and experience Number Talks. These short, ongoing instructional routines are a powerful instructional technique to help learners develop computational fluency.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Launch&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Module 3 Introduction&lt;/li&gt;&lt;li&gt;Session 2.6 Debrief&lt;/li&gt;&lt;li&gt;Session 3.1 Learning Objectives&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Explore&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Prior Experiences With Number Talks&lt;/li&gt;&lt;li&gt;Experiencing a Number Talk Together&lt;/li&gt;&lt;li&gt;Multiplication Number Talk and Learner Work&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Summarize&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Big Ideas From Session 3.1&lt;/li&gt;&lt;li&gt;Preview of Session 3.2&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style="text-align: center; "&gt;&lt;strong&gt;Please note that your training facilitator will manually mark this activity complete if you attend the session.&amp;nbsp;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;strong&gt;&lt;p style="text-align: center;"&gt;&lt;strong style="font-size: 0.9375rem;"&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/strong&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>0</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>1</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1728576150</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <hidegrader>0</hidegrader>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <activity></activity>
+    <activityformat>1</activityformat>
+    <timelimit>0</timelimit>
+    <submissionattachments>0</submissionattachments>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="8821">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8822">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8823">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>20</value>
+      </plugin_config>
+      <plugin_config id="8824">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8825">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>filetypeslist</name>
+        <value></value>
+      </plugin_config>
+      <plugin_config id="8826">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8827">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8828">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8829">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8830">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8831">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimit</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8832">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimitenabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8833">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>commentinline</name>
+        <value>1</value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

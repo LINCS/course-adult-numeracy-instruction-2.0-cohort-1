@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1127" moduleid="10340" modulename="assign" contextid="74171">
+  <assign id="1127">
+    <name>Session 3.5 Information</name>
+    <intro>&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Session 3.5 will meet on Jan. 24, 2024 at 2 PM ET/11 AM PT.&lt;/p&gt;&lt;p dir="ltr"&gt;Session 3.5 log in information:&amp;nbsp;&lt;a href="https://air-org.zoom.us/j/96080108867?pwd=mOU19gZhDZVIWCO3TUkmWucS5eVGiS.1"&gt;https://air-org.zoom.us/j/96080108867?pwd=mOU19gZhDZVIWCO3TUkmWucS5eVGiS.1&lt;/a&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Prior to the session, download the Handouts folder. Make sure that you have the following handouts available for the session. (If possible, print out the handouts indicated below.)&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/Candy%20Jar%20Task.pdf" target="_blank" title="https://lincs.ed.gov/sites/default/files/2024-05/Candy%20Jar%20Task.pdf"&gt;Candy Jar Task&lt;/a&gt;&amp;nbsp;&lt;em&gt;(print, if possible)&lt;/em&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/Exploring%20Proportional%20Relationships.pdf" target="_blank" title="https://lincs.ed.gov/sites/default/files/2024-05/Exploring%20Proportional%20Relationships.pdf"&gt;Exploring Proportional Relationships: The Case of Mr. Donnelly&lt;/a&gt;&amp;nbsp;&lt;em&gt;(print, if possible)&lt;/em&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/Candy%20Jar%20Task%20-%20Problem%20Stem.pdf" target="_blank" title="https://lincs.ed.gov/sites/default/files/2024-05/Candy%20Jar%20Task%20-%20Problem%20Stem.pdf"&gt;Candy Jar Task – Problem Stem&lt;/a&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Session 3.5 Agenda&lt;/h3&gt;&lt;p dir="ltr"&gt;In Session 3.5, you will explore a task and the ways a teacher used it to explore proportional relationships with his students. You will also talk about the ways word problems can enhance learning, and explore a strategy for helping learners extract meaning from these problems.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Launch&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Session 3.4 Debrief&lt;/li&gt;&lt;li&gt;Session 3.5 Learning Objectives&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Explore&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Revisiting the Candy Jar Task&lt;/li&gt;&lt;li&gt;Candy Jar Vignette Discussion&lt;/li&gt;&lt;li&gt;Revisiting the Candy Jar Problem Stem&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Summarize&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Big Ideas From Session 3.5&lt;/li&gt;&lt;li&gt;Preview of Session 3.6&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p style="text-align: center; "&gt;&lt;strong&gt;Please note that your training facilitator will manually mark this activity complete if you attend the session.&amp;nbsp;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;strong&gt;&lt;p style="text-align: center;"&gt;&lt;strong style="font-size: 0.9375rem;"&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/strong&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>0</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>1</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1728576242</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <hidegrader>0</hidegrader>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <activity></activity>
+    <activityformat>1</activityformat>
+    <timelimit>0</timelimit>
+    <submissionattachments>0</submissionattachments>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="8884">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8885">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8886">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>20</value>
+      </plugin_config>
+      <plugin_config id="8887">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8888">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>filetypeslist</name>
+        <value></value>
+      </plugin_config>
+      <plugin_config id="8889">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8890">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8891">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8892">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8893">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8894">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimit</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8895">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimitenabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8896">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>commentinline</name>
+        <value>1</value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

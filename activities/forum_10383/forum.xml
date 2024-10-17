@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1378" moduleid="10383" modulename="forum" contextid="74214">
+  <forum id="1378">
+    <type>blog</type>
+    <name>How Does Mathematical Practice 3 Support Understanding and Fluency?</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;In Session 5.1, you worked with area and perimeter together, and you had opportunities to construct arguments and critique the reasoning of others.&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Read &lt;span&gt;&lt;a href="@@PLUGINFILE@@/Area%20Perimeter%20and%20Justification.pdf?time=1688768822071" target="_blank" title="PDF - opens in a new window"&gt;Area, Perimeter, and Justification&lt;/a&gt;&lt;/span&gt;.&lt;/li&gt;
+    &lt;li&gt;Share your thoughts in the discussion forum below. Click ADD DISCUSSION TOPIC to add a post in the forum. Respond to the following:
+        &lt;ul style="padding-top: 5px"&gt;
+            &lt;li&gt;How does the structure of the activity provide an opportunity for students to make viable arguments and critique the reasoning of others?&lt;/li&gt;
+            &lt;li&gt;How might you adapt this activity for use with your own students? Share 1–2 ideas.&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Read others’ postings and respond to two participants. (Click “Discuss this topic” on an individual post, then click “Reply” to respond to that post.)&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720642802</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>2</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

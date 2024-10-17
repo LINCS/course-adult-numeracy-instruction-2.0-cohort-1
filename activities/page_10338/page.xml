@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2677" moduleid="10338" modulename="page" contextid="74169">
+  <page id="2677">
+    <name>Prepare for Session 3.5</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;To prepare for Session 3.5:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Complete the &lt;a href="@@PLUGINFILE@@/Candy%20Jar%20Task.pdf?time=1688712698907" target="_blank" title="PDF - opens in a new window"&gt;Candy Jar Task&lt;/a&gt;&amp;nbsp;&lt;strong&gt;(only the top part of the handout)&lt;/strong&gt;. During
+        Session 3.5, you will have activities and discussions based on this task.&lt;/li&gt;
+    &lt;li&gt;Read &lt;a href="@@PLUGINFILE@@/Exploring%20Proportional%20Relationships.pdf?time=1688712709603" target="_blank" title="PDF - opens in a new window"&gt;Exploring Proportional Relationships: The Case of Mr. Donnelly&lt;/a&gt;. Notice
+        the different strategies students use when solving the task.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>30</revision>
+    <timemodified>1716498785</timemodified>
+  </page>
+</activity>

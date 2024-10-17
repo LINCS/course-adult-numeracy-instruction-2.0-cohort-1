@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1353" moduleid="10310" modulename="forum" contextid="74141">
+  <forum id="1353">
+    <type>blog</type>
+    <name>Math Tasks That Promote Mathematical Mindsets</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;The types of math tasks learners engage with are critically important in developing their conceptual understanding. The opportunity to think about more than one way to solve a math task promotes deeper levels of understanding. In this activity, you will
+    watch a video of a TED Talk given by Jo Boaler, professor at the Stanford Graduate School of Education and author of &lt;em&gt;Mathematical Mindsets&lt;/em&gt;.&lt;a class="aria-footnote" aria-label="Footnote 1" id="footnote-1-ref" href="#footnoteId1"&gt;[1]&lt;/a&gt; In
+    the video, Boaler provides an example of a task and the many different ways that learners interpreted the task. She also emphasizes the value in making mistakes.&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;Watch the 9-minute video below. In the video, Boaler discusses the types of math tasks used in instruction to promote mathematical mindsets.
+        &lt;p dir="ltr" style="text-align: center;"&gt;&lt;iframe width="400" height="225" src="https://www.youtube.com/embed/3icoSeGqQtY?end=557" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;/p&gt;
+        &lt;p dir="ltr" style="text-align: center;"&gt;From &lt;a href="https://www.youcubed.org/resources/jos-tedx-talk/" target="_blank" title="youcubed website - opens in a new window"&gt;youcubed at Stanford University&lt;/a&gt;.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Click ADD DISCUSSION TOPIC and respond to the following prompts in the discussion forum below.
+        &lt;ul style="padding-top: 10px"&gt;
+            &lt;li&gt;What was your reaction to what Boaler discussed?&lt;/li&gt;
+            &lt;li&gt;Where do you find rich math tasks for students that are open-ended, have multiple entry points, and promote reasoning and problem solving?&lt;/li&gt;
+            &lt;li&gt;What are the challenges to using these types of tasks within the classroom?&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Read and respond to others’ postings. (Click “Discuss this topic” on an individual post, then click “Reply” to respond to that post.)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;footer&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;&lt;small&gt;&lt;a id="footnoteId1" href="#footnote-1-ref" class="footnote-back-link" aria-label="Return to footnote 1 referring content."&gt;[1]&lt;/a&gt; Boaler, J. (2022). &lt;em&gt;Mathematical mindsets: Unleashing students’ potential through creative mathematics, inspiring messages and innovative teaching, 2nd edition.&lt;/em&gt;        Jossey-Bass.&lt;/small&gt;&lt;/p&gt;
+&lt;/footer&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720642369</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>1</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

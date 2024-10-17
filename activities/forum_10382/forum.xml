@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1377" moduleid="10382" modulename="forum" contextid="74213">
+  <forum id="1377">
+    <type>blog</type>
+    <name>Connect Area Formulas</name>
+    <intro>&lt;h3&gt;Introduction&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Students might use the reasoning strategies for finding area as they find the area of other figures, like parallelograms and triangles. The handout &lt;span&gt;&lt;a href="@@PLUGINFILE@@/Parallelograms%20to%20Triangles.pdf?time=1688768688319" target="_blank" title="PDF - opens in a new window"&gt;Parallelograms to Triangles&lt;/a&gt;&lt;/span&gt;    contains some activities that might follow the activity we explored earlier using “decomposing and rearranging” and “enclosing and subtracting.” This handout is a compilation of three lessons (&lt;em&gt;Parallelograms&lt;/em&gt;, &lt;em&gt;From Parallelograms to Triangles&lt;/em&gt;,
+    and &lt;em&gt;Area of Triangles&lt;/em&gt;), and each includes a “Lesson Summary,” which are notes for students.&lt;/p&gt;
+&lt;h3 style="padding-top: 20px"&gt;Discussion&lt;/h3&gt;
+&lt;ul&gt;
+    &lt;li&gt;Examine the three lessons in the handout &lt;span&gt;&lt;a href="@@PLUGINFILE@@/Parallelograms%20to%20Triangles.pdf?time=1688768700139" target="_blank" title="PDF - opens in a new window"&gt;Parallelograms to Triangles&lt;/a&gt;&lt;/span&gt;.
+        You may review &lt;a href="https://www.geogebra.org/m/gb5pbpfv" target="_blank" title="GeoGebra website - opens in a new window"&gt;the full lessons in digital form&lt;/a&gt;. It is not necessary to refer to the full lessons for this activity, but you may
+        do so, if you wish. (The original lesson titles are: &lt;em&gt;1.4:&amp;nbsp;Parallelograms&lt;/em&gt;, &lt;em&gt;1.7:&amp;nbsp;From Parallelograms to Triangles&lt;/em&gt;, and &lt;em&gt;1.8:&amp;nbsp;Area of Triangles&lt;/em&gt;.)&lt;/li&gt;
+    &lt;li&gt;Share your thoughts in the discussion forum below. Click ADD DISCUSSION TOPIC to add a post to the forum. Respond to the following:
+        &lt;ol style="padding-top: 10px"&gt;
+            &lt;li&gt;Describe the “story” of finding area from rectangles to triangles. How do you see the progression from rectangles to parallelograms to triangles? How might the activities help adult learners understand the progression?&lt;/li&gt;
+            &lt;li&gt;What ideas do you have for using or adapting these activities with your own adult learners?&lt;/li&gt;
+            &lt;li&gt;&lt;strong&gt;&lt;em&gt;Optional:&lt;/em&gt;&lt;/strong&gt; How might the area formula for a trapezoid emerge from these activities?&lt;/li&gt;
+        &lt;/ol&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720642787</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

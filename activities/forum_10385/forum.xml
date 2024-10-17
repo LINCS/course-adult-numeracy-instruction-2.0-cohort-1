@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1380" moduleid="10385" modulename="forum" contextid="74216">
+  <forum id="1380">
+    <type>blog</type>
+    <name>Reflecting on Diagrams and Definitions</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Throughout Sessions 5.1 and 5.2, you created and worked with several diagrams. In Sessions&amp;nbsp;5.3 and&amp;nbsp;5.4, our activities will focus on diagrams and definitions.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Click ADD DISCUSSION TOPIC and respond to &lt;strong&gt;two&lt;/strong&gt; of the following prompts in the discussion forum below.&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;In your experience, how has using or creating diagrams when studying geometry supported students or caused them to struggle?&lt;/li&gt;
+    &lt;li&gt;What should students understand about diagrams and definitions? What skills should they have in order to create and use diagrams or apply definitions?&lt;/li&gt;
+    &lt;li&gt;Sometimes we use rough sketches and other times we use or create precise drawings. When is it important for you and your students to create precise drawings and when is it okay to create a rough sketch? How do students know when to use each? How
+        do they know what information they can trust from a rough sketch?&lt;/li&gt;
+&lt;/ol&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720642832</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

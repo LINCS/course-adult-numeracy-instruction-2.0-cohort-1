@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="369" moduleid="10325" modulename="lesson" contextid="74156">
+  <lesson id="369">
+    <course>306</course>
+    <name>Analyzing Learner Number Talk Responses to 63 – 27</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>-3</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>5</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1716498391</timemodified>
+    <completionendreached>1</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="1912">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1913</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1617409998</timecreated>
+        <timemodified>1726271574</timemodified>
+        <title>Introduction</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;For this activity, you will focus on the problem 63&amp;nbsp;−&amp;nbsp;27. In number talks, numerical expressions are presented horizontally to encourage mental processes and solutions. If the problem 63&amp;nbsp;−&amp;nbsp;27 is presented vertically, then learners may tend to mentally
+    use the standard subtraction algorithm. When the problem is written horizontally, it pushes learners to think about place value, which is hidden when using the subtraction algorithm.&amp;nbsp;&lt;/p&gt;
+&lt;p dir="ltr"&gt;Take a few moments to solve 63&amp;nbsp;−&amp;nbsp;27 mentally. See if you can come up with more than one way to solve it.&lt;/p&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;You must reach the end of the lesson to receive confirmation of completion&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Click NEXT when you are done.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4010">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1617409998</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1913">
+        <prevpageid>1912</prevpageid>
+        <nextpageid>1914</nextpageid>
+        <qtype>10</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1617754205</timecreated>
+        <timemodified>1688760919</timemodified>
+        <title>Janine's Approach</title>
+        <contents>&lt;h3&gt;Janine’s Approach&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;As you review the learner’s thinking, review our norms in the handout &lt;a href="@@PLUGINFILE@@/Looking%20at%20Student%20Work.pdf?time=1688712392933" target="_blank" title="PDF - opens in a new window"&gt;Looking at Student Work&lt;/a&gt;    to help with your responses.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Let’s take a few moments to review Janine’s response and how her response was annotated during the number talk.&lt;/p&gt;
+&lt;blockquote style="min-height:230px;"&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Janine’s response:&lt;/strong&gt;&lt;/p&gt;
+    &lt;p dir="ltr"&gt;&lt;img src="@@PLUGINFILE@@/Janine.png" alt="Number line with four tick marks labeled 27, 30, 60, and 63. The distances between the tick marks are labeled 3, 30, and 3." width="273" height="140" style="float:right" class="img-responsive atto_image_button_middle"&gt;&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;I knew I had to find out how far it was from 27 to 63, so I thought about it as a number line, with 27 on one end and 63 on the other.&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;I knew from 27 to 30 was 3; from 30 to 60 was 30; and from 60 to 63 was 3.&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;So in all, the distance from 27 to 63 was 3&amp;nbsp;+&amp;nbsp;30&amp;nbsp;+&amp;nbsp;3&amp;nbsp;=&amp;nbsp;36.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Respond to the following questions in the text box below:&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Which features of Janine’s response (and/or annotated work) provide evidence of her conceptual understanding? Procedural knowledge? What’s your evidence?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4011">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1617754205</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1914">
+        <prevpageid>1913</prevpageid>
+        <nextpageid>1915</nextpageid>
+        <qtype>10</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1619124480</timecreated>
+        <timemodified>1687135662</timemodified>
+        <title>Hector’s Approach</title>
+        <contents>&lt;h3 style="text-align: left;"&gt;Hector’s Approach&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Let’s take a few moments to review Hector’s response and how his response was annotated during the number talk.&lt;/p&gt;
+&lt;blockquote style="min-height:380px;"&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Hector&lt;strong&gt;’&lt;/strong&gt;s response:&lt;/strong&gt;&lt;/p&gt;
+    &lt;p dir="ltr"&gt;&lt;img src="@@PLUGINFILE@@/Hector.png?time=1637611630295" alt="Begins with 6 rectangular blocks of 10 and 3 unit squares. Three blocks of 10 are removed, and three unit squares are added." width="388" height="300" style="float:right " class="img-responsive atto_image_button_middle"&gt;&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;I thought of it like starting with 63, and then taking 27 away.&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;It’s easier to take away 30 than 27, so I thought of having six tens and three ones, and taking three of the tens away.&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;That left 33. But since I knew I took away 30 and not just 27, I knew I needed to add 3 back.&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;That gave me 33&amp;nbsp;+&amp;nbsp;3&amp;nbsp;=&amp;nbsp;36.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p dir="ltr " style="text-align: left; "&gt;&lt;strong&gt;Respond to the following questions in the text box below:&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr " style="text-align: left; "&gt;How does the drawing of Hector’s response help make sense of his verbal explanation? What role does conceptual knowledge play in his answer?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4012">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1619124480</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1915">
+        <prevpageid>1914</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>10</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1619124842</timecreated>
+        <timemodified>1687135712</timemodified>
+        <title>Janine’s and Hector’s Approaches</title>
+        <contents>&lt;h4 style="text-align: left;"&gt;Janine’s and Hector’s Approaches&lt;/h4&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Review Janine’s and Hector’s responses.&lt;/p&gt;
+&lt;blockquote style="height:230px;"&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Janine’s response:&lt;/strong&gt;&lt;/p&gt;
+    &lt;p dir="ltr"&gt;&lt;img src="@@PLUGINFILE@@/Janine.png" alt="Number line with four tick marks labeled 27, 30, 60, and 63. The distances between the tick marks are labeled 3, 30, and 3." width="273" height="140" style="float:right" class="img-responsive atto_image_button_middle"&gt;&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;I knew I had to find out how far it was from 27 to 63, so I thought about it as a number line, with 27 on one end and 63 on the other.&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;I knew from 27 to 30 was 3; from 30 to 60 was 30; and from 60 to 63 was 3.&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;So in all, the distance from 27 to 63 was 3&amp;nbsp;+&amp;nbsp;30&amp;nbsp;+&amp;nbsp;3&amp;nbsp;=&amp;nbsp;36.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote style="height:380px;"&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Hector&lt;strong&gt;’&lt;/strong&gt;s response:&lt;/strong&gt;&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/Hector.png" alt="Begins with 6 rectangular blocks of 10 and 3 unit squares. Three blocks of 10 are removed, and three unit squares are added." width="388" height="300" style="float:right" class="img-responsive atto_image_button_middle"&gt;I thought of it like starting with 63, and then taking 27 away.&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;It’s easier to take away 30 than 27, so I thought of having six tens and three ones, and taking three of the tens away.&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;That left 33. But since I knew I took away 30 and not just 27, I knew I needed to add 3 back.&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;That gave me 33&amp;nbsp;+&amp;nbsp;3&amp;nbsp;=&amp;nbsp;36.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Respond to the following questions in the text box below.&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Now that you have reviewed Janine’s and Hector’s approaches, what stood out to you about the different subtraction solutions? How are they similar? How are they different?&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4013">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1619124842</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

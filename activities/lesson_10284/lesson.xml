@@ -1,0 +1,438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="367" moduleid="10284" modulename="lesson" contextid="74115">
+  <lesson id="367">
+    <course>306</course>
+    <name>Mathematical Practice 4: Engaging in Modeling With “3 Act Math”</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>-4</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1715719011</timemodified>
+    <completionendreached>1</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="1901">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1902</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1604385611</timecreated>
+        <timemodified>1726271503</timemodified>
+        <title>What Is Mathematical Modeling?</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;Modeling with math is a core mathematical practice that is about using mathematics to make sense of a situation in the world around us. It is often believed that modeling is something you do after you have covered the content. For example, a student might
+    say 5&amp;nbsp;×&amp;nbsp;4&amp;nbsp;=&amp;nbsp;20 and then a teacher might ask them to draw a picture of it. In this case, you are asking a student to make a graphical representation of a problem they have solved. Actually, mathematical modeling is a way to teach
+    the content itself and we are going to take a closer look at that.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;A &lt;strong&gt;model&lt;/strong&gt; is a decontextualized representation that can be used to make predictions about a given situation. It could be an equation, a graph, a table—anything that makes the quantitative information we have about a situation easier to make sense
+    of and make predictions about.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Modeling&lt;/strong&gt; can be as simple as writing an expression like 4&amp;nbsp;+&amp;nbsp;5 to represent a situation like “Tony had 4&amp;nbsp;gallons of paint and bought 5&amp;nbsp;more&amp;nbsp;gallons” or as complex as a sophisticated computer program used to predict the weather
+    or the stock market.
+&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;The core aspects of MP&amp;nbsp;4 are&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;ask meaningful questions about the world around them;&lt;/li&gt;
+    &lt;li&gt;identify, gather, organize, and work with relevant information, including mathematical information to answer the question; and&lt;/li&gt;
+    &lt;li&gt;evaluate the effectiveness of a model by checking the results in context and adjusting the model as needed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;In this activity, you’ll be learning about a lesson structure designed to support learners to model with mathematics.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;You must reach the end of the lesson to receive confirmation of completion.&amp;nbsp;&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Click NEXT to continue.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3992">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604385611</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1902">
+        <prevpageid>1901</prevpageid>
+        <nextpageid>1903</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1604385733</timecreated>
+        <timemodified>1677520874</timemodified>
+        <title>The 3 Act Math Task Structure</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;The 3 Act Task lesson structure is a simple but powerful lesson design for engaging students in modeling situations in the world. Originally developed by Dan Meyer, mathematics educator and Chief Academic Officer at Desmos, this lesson design structure
+    is now widely used by math educators of all levels.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;A 3 Act Task is a whole-group mathematics task consisting of three parts:&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;An engaging and perplexing Act One;&lt;/li&gt;
+    &lt;li&gt;An information and solution seeking Act Two; and&lt;/li&gt;
+    &lt;li&gt;A solution discussion and solution revealing Act Three.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Using 3 Act Tasks is an effective way to engage MP&amp;nbsp;4 because they invite learners to wonder and ask questions about situations. Then they are supported to identify and work with relevant information to come up with a model for solving their problem. Finally, learners
+    have an opportunity to evaluate their model against their situation and then adjust and further wonder.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Next, let’s do a 3 Act Task. Click NEXT to continue.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3993">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604385733</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3997">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604385733</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1903">
+        <prevpageid>1902</prevpageid>
+        <nextpageid>1904</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1604385961</timecreated>
+        <timemodified>1681843549</timemodified>
+        <title>Doing a 3 Act Task: Coca-Cola Pool</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;Let’s do a 3 Act Task. This one is about a pool, a real pool filled with Coca-Cola!&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;First, review the College and Career Readiness Standards addressed in this task:&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Standards for Mathematical Practice&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Model with mathematics. (MP&amp;nbsp;4)&lt;br&gt;&lt;/li&gt;
+    &lt;li&gt;Attend to precision. (MP&amp;nbsp;6)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Content Standards&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Use volume formulas for cylinders, pyramids, cones, and spheres to solve problems. (Level E, G.GMD.3)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 style="padding-top: 20px;"&gt;Act One&lt;/h4&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Watch this very short video.&amp;nbsp;&lt;strong&gt;Tip:&lt;/strong&gt; Get out a sheet of paper to work on the problem and take notes.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center;"&gt;&lt;iframe width="400" height="225" src="https://www.youtube.com/embed/4RLN_pNuMc0?end=11" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center"&gt;Excerpt from video by TechRax.&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;What do you notice?&lt;/li&gt;
+    &lt;li&gt;What questions do you have about this situation? (Ask others what they think too. Did they have the same questions as you?)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Click NEXT to continue.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3994">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604385961</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3998">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604385961</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1904">
+        <prevpageid>1903</prevpageid>
+        <nextpageid>1905</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1605142998</timecreated>
+        <timemodified>1681773359</timemodified>
+        <title>Coca-Cola Pool, continued</title>
+        <contents>&lt;h4&gt;Act Two&lt;/h4&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Let’s consider one question you may have wondered: How many bottles of Coca-Cola did they buy to fill that pool?&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Take a minute to estimate the answer:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;What’s a number of bottles you know is too low?&lt;/li&gt;
+    &lt;li&gt;What’s a number of bottles you know is too high?&lt;/li&gt;
+    &lt;li&gt;What information do you need to be able to answer this question?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Click NEXT to continue.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4001">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1605142998</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4002">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1605142998</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1905">
+        <prevpageid>1904</prevpageid>
+        <nextpageid>1906</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1604386791</timecreated>
+        <timemodified>1681773382</timemodified>
+        <title>Coca-Cola Pool, continued</title>
+        <contents>&lt;h4&gt;Act Two, continued&lt;/h4&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Here’s some information you might have been hoping to have.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;What are the dimensions of the pool?&lt;/strong&gt;&lt;/p&gt;
+&lt;img src="@@PLUGINFILE@@/PoolDimensions.jpg?time=1676504825213" alt="Circular pool with a diameter of 12 feet and height of 30 inches" width="576" height="220" class="img-responsive atto_image_button_text-bottom"&gt;
+&lt;p dir="ltr" style="text-align: left; font-size:14px; margin-left: 90px;"&gt;Adapted from Dan Meyer, &lt;a href="https://blog.mrmeyer.com/category/3acts/" target="_blank" title="Dan Meyer's website - opens in a new window"&gt; https://blog.mrmeyer.com/category/3acts/&lt;/a&gt;.
+&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;How much Coca-Cola does each of the bottles hold?&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Each bottle is 2 liters.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;But how much is that in cubic inches, which would help us in this question since the pool’s dimensions are given in inches and feet?&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;According to Google, a 2-liter bottle is equivalent to 122 cubic inches.&lt;/p&gt;
+&lt;h4 style="padding-top: 20px;"&gt;Act Three&lt;/h4&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Given the information we now have, how many bottles does it take to fill the pool?&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Take a few minutes to determine the number of bottles. Make whatever assumptions you need and look up whatever further information you need.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;When you are done, click NEXT to continue Act Three.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3995">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604386791</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3999">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604386791</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1906">
+        <prevpageid>1905</prevpageid>
+        <nextpageid>1907</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1604387168</timecreated>
+        <timemodified>1681773399</timemodified>
+        <title>Coca-Cola Pool, continued</title>
+        <contents>&lt;h4&gt;Act Three, continued&lt;/h4&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;See here for a sample student solution:&lt;/p&gt;
+&lt;blockquote&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;In spite of the shape of the frame (dodecagon) the pool looks like a cylinder.&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/PoolDimensions.jpg" alt="Circular pool with a diameter of 12 feet and height of 30 inches" width="500" height="191" class="img-responsive atto_image_button_text-bottom"&gt;&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/volume_calc.png?time=1681771233875" alt="Volume equals pi r squared h. Substitute 6 times 12 for r and 30 for h. The result is approximately 488,580 cubic inches." width="500" height="100" class="img-responsive atto_image_button_text-bottom"&gt;&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;A 1-liter bottle has 61 cubic inches (Google) so a 2-liter bottle has 122 cubic inches.&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;&lt;img src="@@PLUGINFILE@@/bottles_calc.png" alt="Total bottles needed equals the volume of the pool divided by the volume of a bottle, which is approximately 4,000 bottles." width="500" height="100" class="img-responsive atto_image_button_text-bottom"&gt;&lt;br&gt;&lt;/p&gt;
+    &lt;p dir="ltr" style="text-align: left; font-size:14px; margin-top: 20px;"&gt;Adapted from Dan Meyer, &lt;a href="https://blog.mrmeyer.com/category/3acts/" target="_blank" title="Dan Meyer's website - opens in a new window"&gt; https://blog.mrmeyer.com/category/3acts/&lt;/a&gt;.
+    &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Note that there isn’t one exact answer. Different assumptions will result in different solutions. That is okay. That is a part of modeling—making quantitative sense of a situation is always dependent on what we know and what we must assume.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Compare the solution you came up with against your earlier estimates. Is your answer more accurate? What additional information would make it even more accurate? What about your model might you change to get more accurate?&lt;/p&gt;
+
+&lt;h4 style="padding-top: 20px;"&gt;The Sequel&lt;/h4&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;We are using mathematics to make sense of one aspect of this situation (i.e., the number of bottles it takes to fill the pool), but there are many other questions we could have pursued, including those that you may have wondered about. For example, we
+    could have asked: How much does all this Coca-Cola cost? How long did it take to fill up the pool? How many trash bags (or recycling bins) were needed to dispose of the bottles?&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Mathematical modeling often leads to more questions to answer or adjustments based on new information and new assumptions. This is exactly how mathematics is used in the “real world.”&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Click NEXT to continue.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3996">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604387168</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="4000">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604387168</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1907">
+        <prevpageid>1906</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>10</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1667958997</timecreated>
+        <timemodified>1681846047</timemodified>
+        <title>Teaching With 3 Act Tasks</title>
+        <contents>&lt;h3 style="text-align: left;"&gt;Teaching With 3 Act Tasks&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Finally, reflect on how you could use the 3&amp;nbsp;Act Math Task structure or one of the many 3&amp;nbsp;Act Tasks available on the internet (see below for suggested websites).&amp;nbsp;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;To gain insight into how Dan Meyer teaches and thinks about teaching with 3&amp;nbsp;Act Math Tasks, see his blog posts about &lt;a href="https://blog.mrmeyer.com/2013/teaching-with-three-act-tasks-act-one/" target="_blank" title="Dan Meyer's website - opens in a new window"&gt;Teaching with 3&amp;nbsp;Act Tasks&lt;/a&gt;.&lt;/li&gt;
+    &lt;li&gt;His blog also has a full writeup and download of the &lt;a href="https://www.101qs.com/3896" target="_blank" title="101 Questions website - opens in a new window"&gt;Coca Cola Pool 3&amp;nbsp;Act Task&lt;/a&gt;.&lt;/li&gt;
+    &lt;li&gt;Suggested websites with 3 Act Math Tasks:
+        &lt;ul style="padding-top: 10px"&gt;
+            &lt;li&gt;&lt;a href="https://blog.mrmeyer.com/2011/the-three-acts-of-a-mathematical-story/" target="_blank" title="Dan Meyer's website - opens in a new window"&gt;https://blog.mrmeyer.com/2011/the-three-acts-of-a-mathematical-story/&lt;/a&gt;&lt;br&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="https://gfletchy.com/3-act-lessons/" target="_blank" title="Graham Fletcher's website - opens in a new window"&gt;https://gfletchy.com/3-act-lessons/&lt;/a&gt;&lt;br&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="https://mikewiernicki.com/3-act-tasks/" target="_blank" title="Mike Wiernicki's website - opens in a new window"&gt;https://mikewiernicki.com/3-act-tasks/&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Share your thoughts on how you might use 3 Act Tasks in the text box below.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="4003">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1667958997</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

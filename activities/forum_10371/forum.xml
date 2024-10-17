@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1372" moduleid="10371" modulename="forum" contextid="74202">
+  <forum id="1372">
+    <type>blog</type>
+    <name>Exploring Algebraic Questions From High School Equivalency Tests</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;As part of the formative assessment lesson from Session 4.5, we categorized equations in one variable as having one solution, no solutions, or infinitely many solutions. You are now going to engage in some math problems from high school equivalency tests
+    and consider how your experience with the formative assessment lesson is relevant to these items.&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;First, complete the problems on the handout &lt;a href="@@PLUGINFILE@@/Sample%20High%20School%20Equivalency%20Test%20Items.pdf?time=1688766224103" target="_blank" title="PDF - opens in a new window"&gt;Sample High School Equivalency Test Items&lt;/a&gt;.
+        (You do not need to submit your work. However, you should note your reasoning for your answers.)&lt;/li&gt;
+    &lt;li&gt;Respond to the following in the discussion forum below: &lt;strong&gt;What connections do you see between solving these problems and the formative assessment lesson in Session 4.5?&lt;/strong&gt; Click ADD DISCUSSION TOPIC to add a post to the forum.&lt;/li&gt;
+&lt;/ol&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720642711</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

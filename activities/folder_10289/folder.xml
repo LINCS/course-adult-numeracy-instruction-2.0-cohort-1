@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="70" moduleid="10289" modulename="folder" contextid="74120">
+  <folder id="70">
+    <name>Handouts to download for Session 1.5</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Download this folder prior to the session. The handouts will automatically download when clicked, or you can click the "Download Folder" button to download all handouts in the folder as a Zip file.&amp;nbsp;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <revision>13</revision>
+    <timemodified>1716917006</timemodified>
+    <display>0</display>
+    <showexpanded>0</showexpanded>
+    <showdownloadfolder>1</showdownloadfolder>
+    <forcedownload>1</forcedownload>
+  </folder>
+</activity>

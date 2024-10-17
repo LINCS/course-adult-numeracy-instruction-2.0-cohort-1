@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="10376" modulename="geogebra" contextid="74207">
+  <geogebra id="1">
+    <name>Creating Rectangles</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Task A:&lt;/strong&gt;&amp;nbsp;Create rectangles with whole number side lengths, with an area of 36&amp;nbsp;square&amp;nbsp;units. When you’re certain you have all possible rectangles, find the perimeter of each.
+&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Task B:&lt;/strong&gt;&amp;nbsp;Create rectangles with whole number side lengths, with a perimeter of 24&amp;nbsp;units. When you’re certain you have all possible rectangles, find the area of each.
+&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Tips for using the grid below:&lt;/strong&gt; (from &lt;a href="https://www.geogebra.org" target="_blank" title="GeoGebra website - opens in a new window"&gt;GeoGebra&lt;/a&gt;)&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;To zoom in or out, click on the grid and use your mouse or touchpad.&lt;/li&gt;
+    &lt;li&gt;To pan left/right or up/down, press and hold the Shift key while using your mouse or touchpad.&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <url>material-ssgvphz6.ggb</url>
+    <attributes>enableRightClick=1&amp;enableLabelDrags=1&amp;showResetIcon=1&amp;showMenuBar=0&amp;showToolBar=1&amp;showToolBarHelp=0&amp;showAlgebraInput=0&amp;useBrowserForJS=1&amp;language=en</attributes>
+    <urlggb></urlggb>
+    <seed>0</seed>
+    <width>900</width>
+    <height>1200</height>
+    <showsubmit>0</showsubmit>
+    <grade>-4</grade>
+    <autograde>0</autograde>
+    <maxattempts>-1</maxattempts>
+    <grademethod>1</grademethod>
+    <timeavailable>0</timeavailable>
+    <timedue>0</timedue>
+    <timecreated>1624294973</timecreated>
+    <timemodified>1716557375</timemodified>
+    <attempts>
+    </attempts>
+  </geogebra>
+</activity>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="10377" modulename="geogebra" contextid="74208">
+  <geogebra id="2">
+    <name>Reasoning to Find Area</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Each grid square is 1 square unit. Find the area, in square units, of each shaded region without counting every square. Explain your reasoning.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;If you wish, you can use the diagrams in the app below (from &lt;a href="https://www.geogebra.org" target="_blank" title="GeoGebra website - opens in a new window"&gt;GeoGebra&lt;/a&gt;) to help illustrate and support your explanations.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <url>material-apmdye55.ggb</url>
+    <attributes>enableRightClick=1&amp;enableLabelDrags=1&amp;showResetIcon=1&amp;showMenuBar=1&amp;showToolBar=1&amp;showToolBarHelp=0&amp;showAlgebraInput=0&amp;useBrowserForJS=1&amp;language=en</attributes>
+    <urlggb></urlggb>
+    <seed>0</seed>
+    <width>800</width>
+    <height>600</height>
+    <showsubmit>0</showsubmit>
+    <grade>-4</grade>
+    <autograde>0</autograde>
+    <maxattempts>-1</maxattempts>
+    <grademethod>1</grademethod>
+    <timeavailable>0</timeavailable>
+    <timedue>0</timedue>
+    <timecreated>1624294973</timecreated>
+    <timemodified>1716557859</timemodified>
+    <attempts>
+    </attempts>
+  </geogebra>
+</activity>

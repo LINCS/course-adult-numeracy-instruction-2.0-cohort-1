@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1367" moduleid="10355" modulename="forum" contextid="74186">
+  <forum id="1367">
+    <type>blog</type>
+    <name>Reflecting on Session 4.1</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;In Session 4.1, we worked on the algebraic task &lt;a href="@@PLUGINFILE@@/Growing%20Staircases.pdf?time=1688765555693" target="_blank" title="PDF - opens in a new window"&gt;Growing Staircases&lt;/a&gt;. In the discussion forum below,
+    reflect on how you experienced Mathematical Practices 1 and 3 while working on this task.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;First, review the Standards for Mathematical Practice 1 and 3.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;MP 1:&lt;/strong&gt; Make sense of problems and persevere in solving them.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left; margin-top:-15px;"&gt;Mathematically proficient students start by explaining to themselves the meaning of a problem and looking for entry points to its solution. They analyze givens, constraints, relationships and goals. They make conjectures about the form and meaning of
+    the solution and plan a solution pathway rather than simply jumping into a solution attempt. They consider analogous problems and try special cases and simpler forms of the original problem in order to gain insight into its solution. They monitor
+    and evaluate their progress and change course if necessary. Students might, depending on the context of the problem, transform algebraic expressions or change the viewing window on their graphing calculator to get the information they need. Mathematically
+    proficient students can explain correspondences between equations, verbal descriptions, tables and graphs; draw diagrams of important features and relationships; graph data and search for regularity or trends. Less experienced students might rely
+    on using concrete objects or pictures to help conceptualize and solve a problem. Mathematically proficient students check their answers to problems using a different method, and they continually ask themselves, “Does this make sense?” They can understand
+    different approaches to solving complex problems and identify correspondences between the approaches.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;MP 3:&lt;/strong&gt; Construct viable arguments and critique the reasoning of others.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left; margin-top:-15px;"&gt;Mathematically proficient students understand and use stated assumptions, definitions and previously established results in constructing arguments. They make conjectures and build a logical progression of statements to explore the truth of their conjectures.
+    They can analyze situations by breaking them into cases and can recognize and use counterexamples. They justify their conclusions, communicate them and respond to the arguments of others. They reason inductively about data, making plausible arguments
+    that consider the context from which the data arose. Mathematically proficient students are also able to compare the effectiveness of two plausible arguments; distinguish correct logic or reasoning from that which is flawed; and, if there is a flaw
+    in an argument, explain it. Less experienced students can construct arguments using concrete referents such as objects, drawings, diagrams and actions. Such arguments can make sense and be correct, even though they are not initially generalized or
+    made formal. Later, students learn to determine domains to which a mathematical assumption applies. Students at all levels can listen to or read the arguments of others, decide whether they make sense and ask useful questions to clarify or improve
+    the arguments.&lt;/p&gt;
+&lt;h3 style="padding-top: 20px"&gt;Discussion&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;How did you experience Mathematical Practices 1 and 3 while working on &lt;em&gt;Growing Staircases&lt;/em&gt;?&lt;/strong&gt; Click ADD DISCUSSION TOPIC to share your thoughts in the forum below. Be specific.
+&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;You are welcome to read and respond to others’ postings. (Click “Discuss this topic” on an individual post, then click “Reply” to respond to that post.)&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720642581</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

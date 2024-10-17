@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="365" moduleid="10282" modulename="lesson" contextid="74113">
+  <lesson id="365">
+    <course>306</course>
+    <name>Mathematical Practice 1: Doing Math and Reflecting on Teaching</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>-4</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1715718975</timemodified>
+    <completionendreached>1</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="1893">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1894</nextpageid>
+        <qtype>10</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1604365571</timecreated>
+        <timemodified>1726271643</timemodified>
+        <title>Mathematical Practice 1 as a Learner</title>
+        <contents>&lt;strong&gt;You must reach the end of the lesson to receive confirmation of completion.&lt;/strong&gt;&amp;nbsp;&lt;h3&gt;&lt;span style="font-size: 1.4rem;"&gt;Mathematical Practice 1 as a Learner&lt;/span&gt;&lt;br&gt;&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Let’s do some math—and think about MP&amp;nbsp;1 while we’re at it!&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Take a few minutes to work on the following problem. Work on it with a partner or a small group if convenient. Keep track of your thinking by noting how you make sense of the problem and what helps you to persevere until you have an answer.&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="color: rgb(17, 46, 81); font-family: Merriweather, Georgia, Cambria, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 1.25rem;"&gt;The Handshake Problem&lt;/span&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Let’s say that there are 20 people in your math class (including yourself). On the first day of class, you ask everyone to shake hands with everyone else and introduce themselves (including yourself). How many handshakes will there be?&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Describe your problem-solving process in the text box below. Respond to the following prompts:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;What approaches did you take to make sense of the problem? (e.g., Did you imagine shaking hands? Did you draw a figure? Make a table?)&lt;/li&gt;
+    &lt;li&gt;How did you decide what steps to take and whether those steps were in the right direction?&lt;/li&gt;
+    &lt;li&gt;Did you collaborate with someone? How did you collaborate? (i.e., How did you share your thinking? How did you decide what to try? How did you come to a consensus on the answer (if you did)?)&lt;/li&gt;
+    &lt;li&gt;Did you get stuck? Did you persist until you had a sensible solution? If so, what did you do to persist in finding the solution?&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3983">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1604365571</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1894">
+        <prevpageid>1893</prevpageid>
+        <nextpageid>1895</nextpageid>
+        <qtype>10</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1604366246</timecreated>
+        <timemodified>1679622272</timemodified>
+        <title>Mathematical Practice 1 as a Teacher</title>
+        <contents>&lt;h3&gt;Mathematical Practice 1 as a Teacher&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Now let’s consider this task from the teacher perspective:&lt;/p&gt;
+&lt;blockquote&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;Let’s say that there are 20 people in your math class (including yourself). On the first day of class, you ask everyone to shake hands with everyone else and introduce themselves (including yourself). How many handshakes will there be?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Respond to the following questions in the text box below:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;What questions would your students need to answer in order to make sense of this problem?&lt;/li&gt;
+    &lt;li&gt;What might be challenging to your students and what might they get stuck on? How might they feel about that?&lt;/li&gt;
+    &lt;li&gt;How would you support them to make sense and use good strategies (without telling them what to do)?&lt;/li&gt;
+&lt;/ol&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3984">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1604366246</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1895">
+        <prevpageid>1894</prevpageid>
+        <nextpageid>1896</nextpageid>
+        <qtype>10</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1620351143</timecreated>
+        <timemodified>1688759037</timemodified>
+        <title>Mathematical Practice 1 as a Teacher, continued</title>
+        <contents>&lt;h3&gt;Mathematical Practice 1 as a Teacher, continued&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;It’s important to remember when teaching the mathematical practices that they are always connected to content standards. Thus, when considering mathematical tasks that engage learners in a mathematical practice, you should always consider what the content
+    standard is as well.&lt;/p&gt;
+&lt;blockquote&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;Let’s say that there are 20 people in your math class (including yourself). On the first day of class, you ask everyone to shake hands with everyone else and introduce themselves (including yourself). How many handshakes will there be?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Review the College and Career Readiness Standards addressed by the task:&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Standards for Mathematical Practice&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Make sense of problems and persevere in solving them. (MP&amp;nbsp;1)&lt;/li&gt;
+    &lt;li&gt;Reason abstractly and quantitatively. (MP&amp;nbsp;2)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Content Standards&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Identify arithmetic patterns (including patterns in the addition table or multiplication table) and explain them using properties of operations. (Level B, 3.OA.9)&lt;/li&gt;
+    &lt;li&gt;Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities. (Level D, 7.EE.4)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left; padding-top: 20px"&gt;&lt;strong&gt;In the text box below, explain why the content standards listed above are appropriate for the task. &lt;/strong&gt;Use the handout &lt;a href="@@PLUGINFILE@@/Standards-in-Action%20Critical%20Concepts%20and%20Fluencies%20of%20the%20Levels.pdf?time=1688759024634" target="_blank" title="PDF - opens in a new window"&gt;Standards-in-Action: Critical Concepts and Fluencies of the Levels&lt;/a&gt; to help you.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3986">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1620351143</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1896">
+        <prevpageid>1895</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1604367162</timecreated>
+        <timemodified>1677468811</timemodified>
+        <title>What’s So Important About Mathematical Practice 1?</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;Let’s recall that the key ideas of MP&amp;nbsp;1 are:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Making sense of problems&lt;/li&gt;
+    &lt;li&gt;Persevering in solving problems&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;One of the most important goals for mathematics educators is to help learners develop the dispositions and skills to engage in MP&amp;nbsp;1. This means that&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;We want learners to understand and believe that doing math is about making sense of problems. Doing math is not about applying procedures and facts in ways that don’t make sense.&lt;/li&gt;
+    &lt;li&gt;Related to that is the habit of asking whether the math they’re doing and their solutions are sensible. Does my answer make sense in the context of the problem?&lt;/li&gt;
+    &lt;li&gt;A key aspect of problem solving is planning how to approach the problem. What’s the goal (i.e., what are you trying to figure out)? What steps do you think you should take?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Finally, MP&amp;nbsp;1 is about persevering when faced with challenges. However, it is important not just to persist, but to &lt;b&gt;persist productively&lt;/b&gt;, working not just harder but also smarter. What this means is that the key is learning from challenges,
+    and then adjusting plans and seeking help based on that learning.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;This is closely related to the idea of &lt;b&gt;productive struggle&lt;/b&gt;, which refers to the kind of intellectual struggle that results in robust learning because it is exercising your brain and extending your knowledge. This is in contrast to the kinds of
+    struggle that can be demoralizing and disheartening and that can result in greater confusion. In Sessions&amp;nbsp;1.5 and 1.6, we will be diving more deeply into the ideas of productive struggle and persistence, as well as the mindsets that can support
+    this kind of resilience.&lt;/p&gt;
+&lt;h4 style="padding-top: 20px;"&gt;Additional resource:&lt;/h4&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;For more information about MP&amp;nbsp;1, watch this video from the ATLAS program of Hamline University and the Minnesota Numeracy Initiative. It introduces Mathematical Practice&amp;nbsp;1 and provides example problems and instructional video.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center;"&gt;&lt;video controls="true"&gt;&lt;source src="https://www.youtube.com/watch?v=AnSlyfqVORA&amp;amp;list=PL-NrZkT8VAsZZlctIDjofZlnirhtnJT6r&amp;amp;index=1"&gt;https://www.youtube.com/watch?v=AnSlyfqVORA&amp;amp;list=PL-NrZkT8VAsZZlctIDjofZlnirhtnJT6r&amp;amp;index=1&lt;/video&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: center; margin:0px 100px 0px 100px;"&gt;Used with permission from ATLAS, ABE Teaching &amp;amp; Learning Advancement System. ATLAS is solely funded by a grant from the Minnesota Department of Education and is housed at Hamline University in St.&amp;nbsp;Paul, Minnesota. Contact information: Dr.&amp;nbsp;Patsy
+    Egan, ATLAS Director, &lt;a href="mailto:pegan02@hamline.edu" target="_blank"&gt;pegan02@hamline.edu&lt;/a&gt;, &lt;a href="http://www.atlasABE.org" target="_blank" title="ATLAS website - opens in a new window"&gt;www.atlasABE.org&lt;/a&gt;.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Click NEXT to continue.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3985">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604367162</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

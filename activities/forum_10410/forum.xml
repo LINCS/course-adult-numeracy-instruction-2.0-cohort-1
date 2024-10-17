@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1387" moduleid="10410" modulename="forum" contextid="74241">
+  <forum id="1387">
+    <type>blog</type>
+    <name>Reflecting on Session 6.1</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;In Session 6.1, we looked at univariate and bivariate data distributions from Mr. Garcia’s class. Over a three-year period, he collected data on the amount of time his students spent studying for quizzes and tests as well as their average test scores.
+    You explored some of that data and used visual representations to describe patterns and relationships in the data.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Reflect on Session 6.1 and share your thoughts in the discussion forum below. Click ADD DISCUSSION TOPIC to add a post to the forum. Thinking back to the questions we answered as a group and in your small breakout rooms, respond to the following:&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;Which of the activities would be accessible to your adult learners? (Refer to the two handouts for a summary of these activities: &lt;span&gt;&lt;a href="@@PLUGINFILE@@/Looking%20at%20Individual%20Variables%20in%20Mr%20Garcias%20Data.pdf?time=1688771266466" target="_blank" title="PDF - opens in a new window"&gt;Looking at Individual Variables in Mr. Garcia’s Data&lt;/a&gt;&lt;/span&gt;        and
+        &lt;span&gt;&lt;a href="@@PLUGINFILE@@/Looking%20for%20Relationships%20Between%20Two%20Variables.pdf?time=1688771279345" target="_blank" title="PDF - opens in a new window"&gt;Looking for Relationships Between Two Variables&lt;/a&gt;&lt;/span&gt;.)&lt;/li&gt;
+    &lt;li&gt;Which activities would be less accessible? Could you make any modifications to make them more accessible?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Remember to read and respond to others’ postings. (Click “Discuss this topic” on an individual post, then click “Reply” to respond to that post.)&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720642980</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

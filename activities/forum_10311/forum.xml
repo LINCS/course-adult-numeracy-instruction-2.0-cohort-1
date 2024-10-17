@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1354" moduleid="10311" modulename="forum" contextid="74142">
+  <forum id="1354">
+    <type>blog</type>
+    <name>Explicit Planning for Productive Mathematical Discussions</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;There is a wealth of open educational resources (i.e., resources typically created by other teachers and free to use) available to teachers online. It’s important to find instructional materials that have been vetted and are aligned to the standards.
+    In this activity, you will explore vetted sites with open resources for teachers, select a task, and make a plan for implementation.&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;Visit the following websites to look for open resource tasks:
+        &lt;ul style="padding-top: 10px"&gt;
+            &lt;li&gt;&lt;a href="https://tasks.illustrativemathematics.org/content-standards" target="_blank" title="Illustrative Mathematics website - opens in a new window"&gt;Illustrative Mathematics&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="https://www.insidemathematics.org/performance-assessment-tasks" target="_blank" title="Inside Mathematics website - opens in a new window"&gt;Inside Mathematics Performance Tasks&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="https://www.map.mathshell.org/tasks.php" target="_blank" title="Mathematics Assessment Project website - opens in a new window"&gt;Mathematics Assessment Project Tasks&lt;/a&gt;&lt;/li&gt;
+            &lt;li&gt;&lt;a href="https://www.youcubed.org/tasks/" target="_blank" title="Youcubed website - opens in a new window"&gt;Youcubed Tasks&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Select a task from one of the sites above and complete the planning template provided on page 2 of the handout &lt;a href="@@PLUGINFILE@@/Planning%20for%20Productive%20Mathematical%20Discussions.pdf?time=1688711838737" target="_blank" title="PDF - opens in a new window"&gt;Planning for Productive Mathematical Discussions&lt;/a&gt;.&lt;/li&gt;
+    &lt;li&gt;Next, implement the planned task with your learners.&lt;/li&gt;
+    &lt;li&gt;Share your thoughts about this type of planning in the discussion forum below. Click ADD DISCUSSION TOPIC to add a post to the forum. You may freely share or consider the following questions:
+        &lt;ul style="padding-top: 10px"&gt;
+            &lt;li&gt;What were some challenges you faced?&lt;/li&gt;
+            &lt;li&gt;Did the planning help you better facilitate discussions with your learners?&lt;/li&gt;
+            &lt;li&gt;Do you have a different strategy that you use to help learners engage in mathematical discussions?&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+&lt;/ol&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720642382</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

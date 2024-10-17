@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1389" moduleid="10413" modulename="forum" contextid="74244">
+  <forum id="1389">
+    <type>blog</type>
+    <name>Prepare for Session 6.3</name>
+    <intro>&lt;h3&gt;How Likely Is It?&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Think of five situations with different likelihoods of occurring.&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;One of the situations should be &lt;strong&gt;very unlikely&lt;/strong&gt;, such as the probability that the grocery store will be out of eggs the next time you need some.&lt;/li&gt;
+    &lt;li&gt;Think of another situation that is &lt;strong&gt;very likely&lt;/strong&gt;, such as the probability your car will start the next time you turn on the ignition.&lt;/li&gt;
+    &lt;li&gt;Think of the third situation is that &lt;strong&gt;somewhere in the middle&lt;/strong&gt;, such as the probability that a coin toss at the beginning of a football game lands on “heads.”&lt;/li&gt;
+    &lt;li&gt;For the last two situations, think of something that is &lt;strong&gt;certain&lt;/strong&gt; to happen and something that is &lt;strong&gt;impossible&lt;/strong&gt; to happen.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Click ADD DISCUSSION TOPIC and share each of your situations and their likelihoods in the discussion forum below. For example:&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;The next time I go to the grocery store, there won’t be any eggs. (very unlikely)&lt;/li&gt;
+    &lt;li&gt;The next time I try to start my car, which is very reliable, it will start. (very likely)&lt;/li&gt;
+    &lt;li&gt;The next time a coin is tossed, the results will be “heads.” (equally likely and unlikely)&lt;/li&gt;
+    &lt;li&gt;The next time I open my 500-page book and look at the page number, that number will be less than 800 (assuming the book was printed correctly). (certain)&lt;/li&gt;
+    &lt;li&gt;The next time I turn on my computer, dollar bills will start pouring out of my USB hub. (impossible)&lt;/li&gt;
+&lt;/ol&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720643012</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

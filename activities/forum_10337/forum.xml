@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1362" moduleid="10337" modulename="forum" contextid="74168">
+  <forum id="1362">
+    <type>blog</type>
+    <name>Classroom Observation: Introducing Fractions, Decimals, and Percents</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;In this activity, you will watch and discuss a video of an inquiry-based lesson in which adult learners are discussing the relationships between fractions, decimals, and percents.&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;Watch the following video from PBS Learning Media. As you watch, consider the following:
+        &lt;ul style="padding-top: 10px"&gt;
+            &lt;li&gt;How does the instructor elicit students’ experiences connected to rational numbers?&lt;/li&gt;
+            &lt;li&gt;What else do you notice the instructor doing?&lt;/li&gt;
+            &lt;li&gt;What additional strategies can instructors implement to help learners see relationships among different representations of numbers?&lt;/li&gt;
+        &lt;/ul&gt;
+        &lt;p dir="ltr" style="text-align: center;"&gt;&amp;nbsp;&lt;video controls="true"&gt;&lt;source src="https://www.youtube.com/watch?v=WP35JodXuFo"&gt;https://www.youtube.com/watch?v=nJJbmvj5eiA&lt;/video&gt;&lt;br&gt;Used with permission: © KET 2012, All Rights Reserved.&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Share your responses in the discussion forum below. Click ADD DISCUSSION TOPIC to add a post to the forum.&lt;/li&gt;
+    &lt;li&gt;Read and respond to others’ postings. (Click “Discuss this topic” on an individual post, then click “Reply” to respond to that post.)&lt;/li&gt;
+&lt;/ol&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720642521</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

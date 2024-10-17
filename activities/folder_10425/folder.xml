@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="96" moduleid="10425" modulename="folder" contextid="74256">
+  <folder id="96">
+    <name>Accessibility Reports</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <revision>2</revision>
+    <timemodified>1716918658</timemodified>
+    <display>0</display>
+    <showexpanded>0</showexpanded>
+    <showdownloadfolder>1</showdownloadfolder>
+    <forcedownload>1</forcedownload>
+  </folder>
+</activity>

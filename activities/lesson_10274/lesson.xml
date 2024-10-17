@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="364" moduleid="10274" modulename="lesson" contextid="74105">
+  <lesson id="364">
+    <course>306</course>
+    <name>Review of the College and Career Readiness Mathematics Standards</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <practice>0</practice>
+    <modattempts>1</modattempts>
+    <usepassword>0</usepassword>
+    <password></password>
+    <dependency>0</dependency>
+    <conditions>O:8:"stdClass":3:{s:9:"timespent";i:0;s:9:"completed";i:0;s:15:"gradebetterthan";i:0;}</conditions>
+    <grade>-4</grade>
+    <custom>1</custom>
+    <ongoing>0</ongoing>
+    <usemaxgrade>1</usemaxgrade>
+    <maxanswers>4</maxanswers>
+    <maxattempts>1</maxattempts>
+    <review>0</review>
+    <nextpagedefault>0</nextpagedefault>
+    <feedback>0</feedback>
+    <minquestions>0</minquestions>
+    <maxpages>1</maxpages>
+    <timelimit>0</timelimit>
+    <retake>1</retake>
+    <activitylink>0</activitylink>
+    <mediafile></mediafile>
+    <mediaheight>480</mediaheight>
+    <mediawidth>640</mediawidth>
+    <mediaclose>0</mediaclose>
+    <slideshow>0</slideshow>
+    <width>640</width>
+    <height>480</height>
+    <bgcolor>#FFFFFF</bgcolor>
+    <displayleft>1</displayleft>
+    <displayleftif>0</displayleftif>
+    <progressbar>1</progressbar>
+    <available>0</available>
+    <deadline>0</deadline>
+    <timemodified>1715718719</timemodified>
+    <completionendreached>1</completionendreached>
+    <completiontimespent>0</completiontimespent>
+    <allowofflineattempts>0</allowofflineattempts>
+    <pages>
+      <page id="1890">
+        <prevpageid>0</prevpageid>
+        <nextpageid>1891</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1604357176</timecreated>
+        <timemodified>1726271434</timemodified>
+        <title>Introduction</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;The &lt;a href="https://lincs.ed.gov/publications/pdf/CCRStandardsAdultEd.pdf" target="_blank" title="PDF - opens in a new window"&gt;&lt;i&gt;College and Career Readiness (CCR) Standards for Adult Education&lt;/i&gt; report&lt;/a&gt; (2013) presents a set of standards that reflect the ELA and mathematics content
+    most relevant to preparing adult students for success in college, technical training programs, work, and citizenship. To develop the CCR Standards, the Common Core State Standards (CCSS) for K–12 education were reviewed from the perspective of adult
+    education in order to identify a manageable set of the CCSS standards most indispensable for college and career readiness and important to adult students. In this program, you will be diving into the content and practice standards for mathematics
+    and how to effectively teach adult learners to meet those standards. This activity provides a brief refresher on the standards to get you started.&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;You must reach the end of the lesson to receive confirmation of completion.&amp;nbsp;&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Click NEXT to continue.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3979">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604357176</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1891">
+        <prevpageid>1890</prevpageid>
+        <nextpageid>1892</nextpageid>
+        <qtype>20</qtype>
+        <qoption>0</qoption>
+        <layout>1</layout>
+        <display>1</display>
+        <timecreated>1604357256</timecreated>
+        <timemodified>1677520564</timemodified>
+        <title>Key Instructional Shifts of the College and Career Readiness Mathematics Standards</title>
+        <contents>&lt;p dir="ltr" style="text-align: left;"&gt;The College and Career Readiness Mathematics Standards (2013) exemplify three key shifts in instruction within adult education prompted by the CCSS: Focus, Coherence, and Rigor.&lt;/p&gt;
+&lt;h4 style="padding-top: 20px;"&gt;&lt;b&gt;Focus:&lt;/b&gt; Focusing strongly where the standards focus&lt;/h4&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;“Generally speaking, instructors need both to narrow significantly and to deepen the manner in which they teach mathematics, instead of racing to cover topics. Focusing deeply on the major work of each level will allow students to secure the mathematical
+    foundations, conceptual understanding, procedural skill and fluency, and ability to apply the math they have learned to solve all kinds of problems—inside and outside the math classroom.” (CCR Standards, pg. 44)&lt;/p&gt;
+&lt;h4 style="padding-top: 20px;"&gt;&lt;b&gt;Coherence:&lt;/b&gt; Designing learning around coherent progressions level to level&lt;/h4&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;“The second key shift . . . is to create coherent progressions in the content within and across levels, so that students can build new understanding onto previous foundations. That way, instructors can count on students having conceptual understanding
+    of core content. Instead of each standard signaling a new concept or idea, standards at higher levels become extensions of previous learning.” (CCR Standards, pg. 44–45)&lt;/p&gt;
+&lt;h4 style="padding-top: 20px;"&gt;&lt;b&gt;Rigor:&lt;/b&gt; Pursuing conceptual understanding, procedural skill and fluency, and application—all with equal intensity&lt;/h4&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;“The third key shift required by the CCSS and reinforced in panelists’ selections is equal measures of conceptual understanding of key concepts, procedural skill and fluency, and rigorous application of mathematics in real-world contexts. Students with
+    a solid conceptual understanding see mathematics as more than just a set of procedures. They know more than “how to get the answer” and can employ concepts from several perspectives. Students should be able to use appropriate concepts and procedures,
+    even when not prompted, and in content areas outside of mathematics.” (CCR Standards, pg. 45)&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Click NEXT to continue.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3980">
+            <jumpto>-40</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604357256</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Back</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+          <answer id="3981">
+            <jumpto>-1</jumpto>
+            <grade>0</grade>
+            <score>0</score>
+            <flags>0</flags>
+            <timecreated>1604357256</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>Next</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+      <page id="1892">
+        <prevpageid>1891</prevpageid>
+        <nextpageid>0</nextpageid>
+        <qtype>10</qtype>
+        <qoption>0</qoption>
+        <layout>0</layout>
+        <display>0</display>
+        <timecreated>1667864582</timecreated>
+        <timemodified>1679621722</timemodified>
+        <title>Connecting the Standards to Learning</title>
+        <contents>&lt;h3 style="text-align: left;"&gt;Connecting the Standards to Learning&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Reflect on how the CCR standards—and the ideas of Focus, Coherence, and Rigor specifically—are meaningful for your students’ learning and your teaching. If you like, you may optionally review the &lt;a href="https://lincs.ed.gov/publications/pdf/CCRStandardsAdultEd.pdf" target="_blank" title="PDF - opens in a new window"&gt;CCR Standards report&lt;/a&gt;.&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;Share your thoughts in the text box below, then click SUBMIT.&lt;/p&gt;</contents>
+        <contentsformat>1</contentsformat>
+        <answers>
+          <answer id="3982">
+            <jumpto>-9</jumpto>
+            <grade>0</grade>
+            <score>1</score>
+            <flags>0</flags>
+            <timecreated>1667864582</timecreated>
+            <timemodified>0</timemodified>
+            <answer_text>$@NULL@$</answer_text>
+            <response>$@NULL@$</response>
+            <answerformat>0</answerformat>
+            <responseformat>0</responseformat>
+            <attempts>
+            </attempts>
+          </answer>
+        </answers>
+        <branches>
+        </branches>
+      </page>
+    </pages>
+    <grades>
+    </grades>
+    <timers>
+    </timers>
+    <overrides>
+    </overrides>
+  </lesson>
+</activity>

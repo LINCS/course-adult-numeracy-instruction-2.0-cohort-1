@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1126" moduleid="10335" modulename="assign" contextid="74166">
+  <assign id="1126">
+    <name>Reviewing Instructional Materials for Fractions Tasks</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;In this activity, you will review your current instructional materials (or materials you have used in the past) to see what kinds of opportunities they offer learners with regard to fractions. This exercise will help you to notice if your fractions tasks
+    have high cognitive demand and if learners are encouraged to use multiple representations. If your instructional materials do not provide these types of opportunities, think about how you might modify your tasks so that they require
+    multiple representations and maintain high cognitive demand. (In some cases, small modifications may help provide these opportunities for learners.) You will explore tasks with and without context, solve them in multiple ways, and use multiple representations.&lt;/p&gt;
+&lt;h3 style="padding-top: 20px;"&gt;Assignment&lt;/h3&gt;
+&lt;ol&gt;
+    &lt;li&gt;Select two “naked number” tasks that involve rational numbers (“naked number” tasks are those like ½&amp;nbsp;×&amp;nbsp;13 or 2¾&amp;nbsp;×&amp;nbsp;⅞ that do not have context and only involve operations). Solve each problem two or three different ways, using different representations. As a reminder, representations can be physical (manipulatives), visual (diagrams), symbolic (algebraic and numeric), contextual (culture and life experiences), and verbal.&lt;a class="aria-footnote" aria-label="Footnote 1" id="footnote-1-ref" href="#footnoteId1"&gt;[1]&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;Select two tasks involving rational numbers in a meaningful context (considering the culture and life experiences of adult learners you’ve taught). Solve each task two or three different ways.&lt;br&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Instructions for submitting the assignment:&lt;/strong&gt; Click the ADD SUBMISSION button below. You may then type your response in the text box or upload a document, photos/images, or a video explaining your solution methods. Click SAVE CHANGES to
+    save your work. You may continue to edit your response as needed.&amp;nbsp;&lt;strong&gt;Click SUBMIT ASSIGNMENT when you are done.&lt;/strong&gt;&lt;/p&gt;
+&lt;footer&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;&lt;small&gt;&lt;a id="footnoteId1" href="#footnote-1-ref" class="footnote-back-link" aria-label="Return to footnote 1 referring content."&gt;[1]&lt;/a&gt; Boston, M., Dillon, F., Smith, M., &amp;amp; Miller, S. (2017). &lt;em&gt;Taking action: Implementing effective mathematics teaching practices in Grades 9–12&lt;/em&gt;.
+      National Council of Teachers of Mathematics.&lt;/small&gt;&lt;/p&gt;
+&lt;/footer&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>1</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1716498692</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>1</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <hidegrader>0</hidegrader>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <activity></activity>
+    <activityformat>1</activityformat>
+    <timelimit>0</timelimit>
+    <submissionattachments>0</submissionattachments>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="8871">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8872">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimit</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8873">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimitenabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8874">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8875">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8876">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8877">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>commentinline</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8878">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8879">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8880">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8881">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>20</value>
+      </plugin_config>
+      <plugin_config id="8882">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8883">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>filetypeslist</name>
+        <value></value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

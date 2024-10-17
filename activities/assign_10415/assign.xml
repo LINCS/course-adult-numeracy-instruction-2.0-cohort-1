@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1144" moduleid="10415" modulename="assign" contextid="74246">
+  <assign id="1144">
+    <name>Session 6.3 Information</name>
+    <intro>&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;span style="font-size: 0.9375rem;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Session 6.3 will meet on May 16, 2025 at 2 PM ET/11 AM PT.&lt;/p&gt;&lt;p dir="ltr"&gt;Session 6.3 log in information:&amp;nbsp;&lt;a href="https://air-org.zoom.us/j/96080108867?pwd=mOU19gZhDZVIWCO3TUkmWucS5eVGiS.1"&gt;https://air-org.zoom.us/j/96080108867?pwd=mOU19gZhDZVIWCO3TUkmWucS5eVGiS.1&lt;/a&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;Prior to the session, download the Handouts folder. Make sure that you have the following handouts available for the session.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/How%20Many.pdf" target="_blank" title="https://lincs.ed.gov/sites/default/files/2024-05/How%20Many.pdf"&gt;How Many?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/Flip%20and%20Roll%20Simulation.pdf" target="_blank" title="https://lincs.ed.gov/sites/default/files/2024-05/Flip%20and%20Roll%20Simulation.pdf"&gt;Flip and Roll Simulation&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/Designing%20a%20Fair%20Game.pdf" target="_blank" title="https://lincs.ed.gov/sites/default/files/2024-05/Designing%20a%20Fair%20Game.pdf"&gt;Designing a Fair Game&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/Sample%20Spaces%20-%20Dice.pdf" target="_blank" title="https://lincs.ed.gov/sites/default/files/2024-05/Sample%20Spaces%20-%20Dice.pdf"&gt;Sample Spaces: Dice&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://lincs.ed.gov/sites/default/files/2024-05/Sample%20Spinners.pdf" target="_blank" title="https://lincs.ed.gov/sites/default/files/2024-05/Sample%20Spinners.pdf"&gt;Sample Spinners&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Session 6.3 Agenda&lt;/h3&gt;&lt;p dir="ltr"&gt;In Session 6.3, you’ll discuss the counting principle and discuss how you can use it to solve problems. You’ll participate in a coin flip simulation in small groups, and then you will design a game and describe what makes it fair and how you know.&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;Launch&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Session 6.2 Debrief&lt;/li&gt;&lt;li&gt;Session 6.3 Learning Objective&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Explore&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;The Counting Principle&lt;/li&gt;&lt;li&gt;Theoretical and Experimental Probability&lt;/li&gt;&lt;li&gt;Fair Game?&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Summarize&lt;/strong&gt;&lt;ul&gt;&lt;li&gt;Big Ideas From Session 6.3&lt;/li&gt;&lt;li&gt;Preview of Session 6.4&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;&lt;p style="text-align: center;"&gt;&lt;strong style="font-size: 0.9375rem;"&gt;Please note that your training facilitator will manually mark this activity complete if you attend the session.&lt;/strong&gt;&lt;/p&gt;&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;&lt;p style="text-align: center;"&gt;&lt;strong style="font-size: 0.9375rem;"&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/strong&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>0</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>1</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1727897540</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <hidegrader>0</hidegrader>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <activity></activity>
+    <activityformat>1</activityformat>
+    <timelimit>0</timelimit>
+    <submissionattachments>0</submissionattachments>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="9105">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9106">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9107">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>20</value>
+      </plugin_config>
+      <plugin_config id="9108">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9109">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>filetypeslist</name>
+        <value></value>
+      </plugin_config>
+      <plugin_config id="9110">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9111">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9112">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9113">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="9114">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9115">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimit</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9116">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimitenabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="9117">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>commentinline</name>
+        <value>1</value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

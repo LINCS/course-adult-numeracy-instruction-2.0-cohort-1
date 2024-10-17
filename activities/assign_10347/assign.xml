@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1130" moduleid="10347" modulename="assign" contextid="74178">
+  <assign id="1130">
+    <name>Practice Unpacking a Problem Stem</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;In this activity, you will unpack the word problem in the handout &lt;a href="@@PLUGINFILE@@/Parkview%20College%20Spirit%20Day.pdf?time=1688713029403" target="_blank" title="PDF - opens in a new window"&gt;Parkview College Spirit Day&lt;/a&gt;.
+    You may type your responses in the handout or in a separate document. You may also print it out and take pictures of your work.
+&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;The handout has three parts:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;For &lt;strong&gt;Part A&lt;/strong&gt;, use the guiding questions in the handout to create a list of quantities and relationships in the problem stem.
+        &lt;ul style="padding-top: 10px"&gt;
+            &lt;li&gt;Remember to use the sentence frames:
+                &lt;ul style="padding-top: 10px"&gt;
+                    &lt;li&gt;The number of&amp;nbsp;.&amp;nbsp;.&amp;nbsp;.&lt;/li&gt;
+                    &lt;li&gt;The amount of&amp;nbsp;.&amp;nbsp;.&amp;nbsp;.&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;Aim to list more than numeric values. Focus on quantities—the things that could be assigned a numerical value (Kelemanik et al., 2016).&lt;a class="aria-footnote" aria-label="Footnote 1" id="footnote-1-ref" href="#footnoteId1"&gt;[1]&lt;/a&gt; A quantity
+                has three characteristics:
+                &lt;ul style="padding-top: 10px"&gt;
+                    &lt;li&gt;A value (a numerical value)&lt;/li&gt;
+                    &lt;li&gt;The unit of measurement&lt;/li&gt;
+                    &lt;li&gt;The sign (positive or negative)&lt;/li&gt;
+                &lt;/ul&gt;
+            &lt;/li&gt;
+            &lt;li&gt;A relationship states how two quantities are related to each other.&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;For &lt;strong&gt;Part B&lt;/strong&gt;, create a diagram based on the problem stem and your work on Part A.&lt;/li&gt;
+    &lt;li&gt;For &lt;strong&gt;Part C&lt;/strong&gt;, create a list of questions related to the problem stem that could potentially be used with learners.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Instructions for submitting the assignment:&lt;/strong&gt; Click the ADD SUBMISSION button below. You may then upload the completed handout and any other documents or photos of your work. Click SAVE CHANGES to save your work. Click SUBMIT ASSIGNMENT
+    when you are done.&lt;/p&gt;
+&lt;footer&gt;
+    &lt;p dir="ltr" style="text-align: left;"&gt;&lt;small&gt;&lt;a id="footnoteId1" href="#footnote-1-ref" class="footnote-back-link" aria-label="Return to footnote 1 referring content."&gt;[1]&lt;/a&gt; Kelemanik, G., Lucenta, A., &amp;amp; Creighton, S. J. (2016). &lt;em&gt;Routines for reasoning: Fostering the mathematical practices in all students&lt;/em&gt;.
+      Heinemann.&lt;/small&gt;
+    &lt;/p&gt;
+&lt;/footer&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>1</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1716499026</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>1</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <hidegrader>0</hidegrader>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <activity></activity>
+    <activityformat>1</activityformat>
+    <timelimit>0</timelimit>
+    <submissionattachments>0</submissionattachments>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="8923">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8924">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimit</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8925">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimitenabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8926">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8927">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8928">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8929">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>commentinline</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8930">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8931">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8932">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8933">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>20</value>
+      </plugin_config>
+      <plugin_config id="8934">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8935">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>filetypeslist</name>
+        <value></value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

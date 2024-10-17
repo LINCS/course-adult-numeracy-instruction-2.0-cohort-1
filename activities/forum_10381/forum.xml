@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1376" moduleid="10381" modulename="forum" contextid="74212">
+  <forum id="1376">
+    <type>blog</type>
+    <name>Reasoning to Find Area - Student Work Samples</name>
+    <intro>&lt;h3&gt;Introduction&lt;/h3&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;We can use the “decompose and rearrange” and “enclose and subtract” strategies for finding area to extend the formula for area of any rectangle to derive a formula for area of any parallelogram, and then to derive the formula for the area of any triangle.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Recall how those strategies were used in the &lt;em&gt;Reasoning to Find Area&lt;/em&gt; activity in Session&amp;nbsp;5.1.&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;Below are some ways students might have found the areas of the shaded regions. Ideally, we can use students’ ways of thinking as formative assessment, and make instructional decisions in later lessons.&lt;/p&gt;
+&lt;table style="text-align: center;"&gt;
+    &lt;caption style="text-align: center; caption-side: top;"&gt;Student Work Samples&lt;/caption&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th scope="col" style="text-align: center; "&gt;Diagram&lt;/th&gt;
+            &lt;th scope="col" style="text-align: center; "&gt;Student 1&lt;/th&gt;
+            &lt;th scope="col" style="text-align: center; "&gt;Student 2&lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td style="text-align: center; "&gt;A&lt;/td&gt;
+            &lt;td style="text-align: left; "&gt;&lt;img src="@@PLUGINFILE@@/S1A%20Find%20Area.jpg" alt="L-shaped figure with a vertical line drawn through it to create one 2-by-3 rectangle and one 6-by-3 rectangle." style="float:left" class="img-responsive atto_image_button_text-bottom" width="200" height="200"&gt;&lt;br&gt;6&amp;nbsp;×&amp;nbsp;3&amp;nbsp;=&amp;nbsp;18&lt;br&gt;3&amp;nbsp;×&amp;nbsp;2&amp;nbsp;=&amp;nbsp;6&lt;br&gt;&lt;br&gt;18&amp;nbsp;+&amp;nbsp;6&lt;br&gt;=&amp;nbsp;24&amp;nbsp;square&amp;nbsp;units&lt;/td&gt;
+            &lt;td style="text-align: left; "&gt;&lt;img src="@@PLUGINFILE@@/S2A%20Find%20Area.jpg" alt="L-shaped figure with a line through it, creating two rectangles. Arrow shows one piece was moved to form a 3-by-8 rectangle." style="float:left" class="img-responsive atto_image_button_text-bottom" width="200" height="200"&gt;&lt;br&gt;3&amp;nbsp;×&amp;nbsp;8 =&amp;nbsp;24&amp;nbsp;square&amp;nbsp;units&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style="background-color:#ffffff"&gt;
+            &lt;td style="text-align: center; background:none;"&gt;B&lt;/td&gt;
+            &lt;td style="text-align: left; "&gt;&lt;img src="@@PLUGINFILE@@/S1B%20Find%20Area.jpg" alt="Square-shaped figure containing a square-shaped hole. The outer square has been labeled with a 6 on two sides." style="float:left" class="img-responsive atto_image_button_text-bottom" width="200" height="200"&gt;&lt;br&gt;6&amp;nbsp;×&amp;nbsp;6 =&amp;nbsp;36&amp;nbsp;square&amp;nbsp;units&lt;/td&gt;
+            &lt;td style="text-align: left; "&gt;&lt;img src="@@PLUGINFILE@@/S2B%20Find%20Area.jpg" alt="Line was drawn across figure to create a 6-by-2 rectangle on top. Below that, a 6-by-4 rectangle has a square hole labeled 9." style="float:left" class="img-responsive atto_image_button_text-bottom" width="200" height="200"&gt;&lt;br&gt;6&amp;nbsp;×&amp;nbsp;2&amp;nbsp;=&amp;nbsp;12&lt;br&gt;&lt;br&gt;6&amp;nbsp;×&amp;nbsp;4&amp;nbsp;=&amp;nbsp;24&lt;br&gt;24&amp;nbsp;−&amp;nbsp;9&amp;nbsp;=&amp;nbsp;15&lt;br&gt;&lt;br&gt;12&amp;nbsp;+&amp;nbsp;15 =&amp;nbsp;27&amp;nbsp;square&amp;nbsp;units&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr&gt;
+            &lt;td style="text-align: center; "&gt;C&lt;/td&gt;
+            &lt;td style="text-align: left; "&gt;&lt;img src="@@PLUGINFILE@@/S1C%20Find%20Area.jpg" alt="Square-shaped figure is inscribed with a rotated square hole. The outer square's sides are labeled 6. The hole is labeled 16." style="float:left" class="img-responsive atto_image_button_text-bottom" width="200" height="200"&gt;&lt;br&gt;6&amp;nbsp;×&amp;nbsp;6&amp;nbsp;=&amp;nbsp;36&lt;br&gt;4&amp;nbsp;×&amp;nbsp;4&amp;nbsp;=&amp;nbsp;16&lt;br&gt;&lt;br&gt;36&amp;nbsp;−&amp;nbsp;16 =&amp;nbsp;20&amp;nbsp;square&amp;nbsp;units&lt;/td&gt;
+            &lt;td style="text-align: left; "&gt;&lt;img src="@@PLUGINFILE@@/S2C%20Find%20Area.jpg" alt="Figure made of 4 congruent triangles. Lines were drawn to form 2-by-4 rectangles, each half-filled with a triangle labeled 4." style="float:left" class="img-responsive atto_image_button_text-bottom" width="200" height="200"&gt;&lt;br&gt;4 × 4 =&amp;nbsp;16&amp;nbsp;square&amp;nbsp;units&lt;/td&gt;
+        &lt;/tr&gt;
+        &lt;tr style="background-color:#ffffff"&gt;
+            &lt;td style="text-align: center; "&gt;D&lt;/td&gt;
+            &lt;td style="text-align: left; "&gt;&lt;img src="@@PLUGINFILE@@/S1D%20Find%20Area.jpg" alt="A rotated square figure has two sides marked off with tick marks to determine their measures. The sides are each labeled 4." style="float:left" class="img-responsive atto_image_button_text-bottom" width="200" height="200"&gt;&lt;br&gt;4&amp;nbsp;×&amp;nbsp;4 =&amp;nbsp;16&amp;nbsp;square&amp;nbsp;units&lt;/td&gt;
+            &lt;td style="text-align: left; "&gt;&lt;img src="@@PLUGINFILE@@/S2D%20Find%20Area.jpg" alt="Rotated square figure has lines drawn and triangle pieces moved to form a rectangle labeled 8 and six rectangles labeled 2. " style="float:left" class="img-responsive atto_image_button_text-bottom" width="200" height="200"&gt;&lt;br&gt;2 + 2 + 2&lt;br&gt;+ 8&lt;br&gt;+ 2 + 2 + 2&lt;br&gt;=&amp;nbsp;20&amp;nbsp;square&amp;nbsp;units&lt;/td&gt;
+        &lt;/tr&gt;
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 style="text-align: left;"&gt;Discussion&lt;/h3&gt;
+&lt;p dir="ltr"&gt;&lt;strong&gt;How do you see the “decomposing and rearranging” and “enclose and subtract” strategies in each student’s work?&lt;/strong&gt; Click ADD DISCUSSION TOPIC to share your thoughts in the discussion forum below.&lt;/p&gt;
+&lt;p dir="ltr"&gt;You may type your responses and/or upload documents in the forum. (You may choose to print the images of student work and mark on them.)&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720642772</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>1</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1133" moduleid="10363" modulename="assign" contextid="74194">
+  <assign id="1133">
+    <name>Plan a Dot Talk</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;In this activity, you will plan a dot talk. (You may have chosen to do a dot talk in Module 3; if so, please select another pattern and plan one again in light of what you know about dot talks and your experience in the previous session.)&lt;/p&gt;
+&lt;ol&gt;
+    &lt;li&gt;First, select a dot pattern to use for your planning activity.
+        &lt;ul style="padding-top: 10px"&gt;
+            &lt;li&gt;You may select a pattern from &lt;a href="@@PLUGINFILE@@/Sample%20Dot%20Talk%20Patterns.pdf?time=1688765655573" target="_blank" title="PDF - opens in a new window"&gt;Sample Dot Talk Patterns&lt;/a&gt; or choose your own.
+                Additional dot patterns can be found online by searching “dot patterns for math” in any search engine.&lt;/li&gt;
+            &lt;li&gt;In selecting a dot pattern, be sure to choose one that is conducive to being seen in a variety of ways.&lt;/li&gt;
+            &lt;li&gt;You may choose to print a copy of the dot pattern or simply copy it onto your own paper. (Instructional tip: In a face-to-face classroom, instructors often create 3 or 4 copies of dot patterns on butcher paper using markers.)&lt;/li&gt;
+        &lt;/ul&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Once you have selected a dot pattern, think about the different ways learners might identify the number of dots by quickly looking at them—not by counting them one by one. This process is called &lt;strong&gt;subitizing&lt;/strong&gt;. &lt;em&gt;Perceptual subitizing&lt;/em&gt;        is recognizing a small group of objects, typically up to five. &lt;em&gt;Conceptual subitizing&lt;/em&gt; involves recognizing subgroups and combining them as a whole.&lt;/li&gt;
+    &lt;li&gt;For each way you think students may subitize, write down the exact words a learner might use to explain their thinking and how you would outline the quantities based on their response. Then, write an expression to match the words. Here is an example:
+        &lt;blockquote style="width:500px; margin: auto;  margin-top: 20px; margin-bottom: 20px;"&gt;
+            &lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Dot pattern:&lt;/strong&gt;&lt;/p&gt;
+            &lt;p dir="ltr" style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/Dots.png" alt="An arrangement of several dots" class="img-responsive atto_image_button_text-bottom" width="200" height="150"&gt;
+            &lt;/p&gt;
+            &lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Possible student response:&lt;/strong&gt;&lt;/p&gt;
+            &lt;p dir="ltr" style="text-align: center; margin:0px 60px 0px 60px;"&gt;“There are 7 dots. The pattern is the same as a 6 on a die but with one extra dot on top.”&lt;/p&gt;
+            &lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Outline the quantities:&lt;/strong&gt;&lt;/p&gt;
+            &lt;p dir="ltr" style="text-align: center;"&gt;&lt;img src="@@PLUGINFILE@@/Dots_annotated.png" alt="Two circles are drawn on the pattern to separate the dots into two groups, one containing 1 dot and one containing 6 dots." class="atto_image_button_text-bottom" width="200" height="167"&gt;&lt;/p&gt;
+            &lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Expression:&lt;/strong&gt;&lt;/p&gt;
+            &lt;p dir="ltr" style="text-align: center;"&gt;6 + 1&lt;/p&gt;
+        &lt;/blockquote&gt;
+    &lt;/li&gt;
+    &lt;li&gt;Click the ADD SUBMISSION button below to submit your work. You may upload pictures or a document. Remember to click SAVE CHANGES, then click SUBMIT ASSIGNMENT when you are done.&lt;/li&gt;
+&lt;/ol&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>1</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>1</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <gradingduedate>0</gradingduedate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>-4</grade>
+    <timemodified>1716499468</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>1</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <hidegrader>0</hidegrader>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>manual</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <activity></activity>
+    <activityformat>1</activityformat>
+    <timelimit>0</timelimit>
+    <submissionattachments>0</submissionattachments>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="8962">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8963">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimit</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8964">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimitenabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8965">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8966">
+        <plugin>comments</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8967">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8968">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>commentinline</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8969">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8970">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8971">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="8972">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>20</value>
+      </plugin_config>
+      <plugin_config id="8973">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="8974">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>filetypeslist</name>
+        <value></value>
+      </plugin_config>
+    </plugin_configs>
+    <overrides>
+    </overrides>
+  </assign>
+</activity>

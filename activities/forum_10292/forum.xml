@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1346" moduleid="10292" modulename="forum" contextid="74123">
+  <forum id="1346">
+    <type>blog</type>
+    <name>Reflecting on Session 1.5</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;Session&amp;nbsp;1.5 focused on concepts of cognitive demand and productive struggle in mathematics teaching and learning. Review the activities from Session&amp;nbsp;1.5 and your notes or work from the session. Then, click ADD DISCUSSION TOPIC to share your thoughts on Session&amp;nbsp;1.5
+    in the discussion below. Respond briefly to the following:&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;What were the core ideas from the session?&lt;/li&gt;
+    &lt;li&gt;What ideas were particularly important and/or surprising to you?&lt;/li&gt;
+    &lt;li&gt;What questions do you have about the topics covered in the session?&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1720642224</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>1</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <lockdiscussionafter>0</lockdiscussionafter>
+    <grade_forum>0</grade_forum>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+    <poststags>
+    </poststags>
+    <grades>
+    </grades>
+  </forum>
+</activity>

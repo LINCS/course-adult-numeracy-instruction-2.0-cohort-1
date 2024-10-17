@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="80" moduleid="10333" modulename="folder" contextid="74164">
+  <folder id="80">
+    <name>Handouts to download for Session 3.4</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;You will need these handouts to complete this section. When clicked, the handouts will automatically download, or you can click the "Download Folder" button to download all the handouts in the folder as a Zip file.&amp;nbsp;&lt;br&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <revision>13</revision>
+    <timemodified>1726268426</timemodified>
+    <display>0</display>
+    <showexpanded>1</showexpanded>
+    <showdownloadfolder>1</showdownloadfolder>
+    <forcedownload>1</forcedownload>
+  </folder>
+</activity>
